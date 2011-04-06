@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Clarified Artistic License
-permalink: pretty
 date: 2011-01-03 12:25:07 +01:00
 ---
 
