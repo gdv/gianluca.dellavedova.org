@@ -1,0 +1,51 @@
+--- 
+
+layout: default
+title: Laboratorio Statistico-Informatico - 2002-2003
+
+---
+Obiettivi dell'attività formativa
+
+Il corso si propone di introdurre alcuni strumenti informatici per il trattamento di dati statistici. Tale obiettivo verrà perseguito attraverso lo studio dei concetti fondamentali soggiacenti a SAS© e l'utilizzo di tale sistema di strumenti per la risoluzione di problemi di trattamento di dati.
+
+L'attività formativa è svolta attraverso lezioni al calcolatore.
+Programma riassuntivo
+ARGOMENTIOre
+Introduzione al trattamento dati con SAS© 4
+Inferire informazioni dai dati 10
+Descrizione dei dati 8
+Rappresentare dati 8
+Riepilogare dati 10
+TOTALE GENERALE 40
+Programma dettagliato
+
+Introduzione al trattamento dati con SAS©
+
+Il dataset SAS, creazione di un dataset, caricamento e salvataggio di un dataset
+
+Descrizione dei dati
+
+Il data step, librerie, librerie temporanee e permanenti, variabili, array, dividere, fondere e ordinare dataset
+
+Inferire informazioni dai datii
+
+PROC MEANS, PROC CORR, PROC UNIVARIATE, PROC REG, PROC FREQ
+
+Rappresentazione tabulare dei dati
+
+PROC PRINT, PROC FORMAT
+
+Rappresentazione grafica dei dati
+
+PROC GPLOT
+Propedeuticità
+
+Nessuna.
+Modalità dell'esame
+
+L'esame consiste in una prova scritta da svolgere al calcolatore.
+Materiale didattico
+
+Il libro di testo adottato è “The Little SAS Book”, SAS Institute.
+
+Ulteriori informazioni sono disponibili nella pagina relativa al corso per le attività in e-learning.

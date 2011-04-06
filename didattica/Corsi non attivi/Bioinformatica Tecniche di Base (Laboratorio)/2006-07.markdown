@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 144
+layout: default
+title: "Bioinformatica tecniche di base (laboratorio) \xE2\x80\x93 2006-07"
+wordpress_url: http://gianluca.dellavedova.org/?p=144
+---
+<h3>Obiettivi dell'attività formativa</h3>
+Si prevede di introdurre l'utilizzo di BioPerl ed in generale di <acronym title="Practical Extraction and Report Language">Perl</acronym> per l'analisi di dati biologici.
+<h3>Letture consigliate</h3>
+J. Bedell; “Mastering Bioinformatics with <acronym title="Practical Extraction and Report Language">Perl</acronym>” di J. Tisdall
+<h3>Orario delle lezioni</h3>
+Il corso si tiene nel lab. 2029, vengono indicati gli orari effettivi, al netto dei quarti d'ora accademici.
+
+Data 	Contenuto della lezione
+<ol>
+	<li>19.04.2007 h.13.30-16.30 Richiami di Perl: hash, liste e puntatori. Strutture anonime. Orientazione agli Oggetti in Perl. esercizio hash soluzione  esercizio OO soluzione.</li>
+	<li>24.04.2007 h.13.30-16.30. 	Introduzione a BioPerl.  esercizio soluzione.</li>
+	<li>02.05.2007 h.13.30-16.30. 	Programmazione dinamica: LCS soluzione.</li>
+	<li> 10.05.2007 h.10.00-13.00. 	Distanza di edit pesata distanza edit.</li>
+</ol>

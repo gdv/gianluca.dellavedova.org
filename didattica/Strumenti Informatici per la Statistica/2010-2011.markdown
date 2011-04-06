@@ -1,0 +1,50 @@
+--- 
+
+layout: default
+title: Strumenti Informatici per la Statistica - 2010-2011
+
+---
+
+##Erogazione insegnamento##
+
+L'insegnamento viene erogato in e-learning, attraverso la piattaforma web gestita dall'Ateneo.
+
+##Obiettivi dell'attività formativa##
+
+Il corso si propone di introdurre alcuni strumenti informatici per il  trattamento di dati statistici. Tale obiettivo verrà perseguito  attraverso lo studio dei concetti fondamentali soggiacenti a SAS© e  l'utilizzo di tale sistema di strumenti per la risoluzione di problemi  di trattamento di dati.
+
+L'attività formativa è svolta in e-learning.
+
+##Programma dettagliato##
+
+Introduzione al trattamento dati con SAS©
+
+Il dataset SAS, creazione di un dataset, caricamento e salvataggio di un dataset
+
+Descrizione dei dati
+
+Il data step, librerie, librerie temporanee e permanenti, variabili, array, dividere, fondere e ordinare dataset
+
+Inferire informazioni dai datii
+
+PROC MEANS, PROC CORR, PROC UNIVARIATE, PROC REG, PROC FREQ
+
+Rappresentazione tabulare dei dati
+
+PROC PRINT, PROC FORMAT
+
+Macro
+
+##Propedeuticità##
+
+Nessuna.
+
+##Modalità di esame##
+
+L'esame consiste in una prova scritta da svolgere al calcolatore.
+
+##Materiale didattico##
+
+Il libro di testo adottato è “The Little SAS Book”, SAS Institute.
+
+Ulteriori informazioni sono disponibili nella pagina relativa al corso per le attività in e-learning.

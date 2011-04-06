@@ -1,0 +1,86 @@
+--- 
+
+layout: default
+title: Laboratorio Statistico-Informatico - 2008-2009
+
+---
+
+###<a id="obiettivi_dell_attivita_formativa" name="obiettivi_dell_attivita_formativa">Obiettivi dell'attività formativa</a>###
+
+
+
+Il corso si propone di introdurre alcuni strumenti informatici per il  trattamento di dati statistici. Tale obiettivo verrà perseguito  attraverso lo studio dei concetti fondamentali soggiacenti a SAS© e  l'utilizzo di tale sistema di strumenti per la risoluzione di problemi  di trattamento di dati.
+
+L'attività formativa è svolta attraverso lezioni al calcolatore.
+
+
+
+###<a id="orario_di_lezione" name="orario_di_lezione">Orario di lezione</a>###
+
+
+
+Lunedì e Martedì, 14.30-16.30
+Venerdì 13.30-16.30
+
+Le lezioni si tengono nel laboratori 905 e 906, piano interrato dell'U9.
+
+Non ci sarà lezione Martedì 14/10.
+
+
+
+###<a id="programma_dettagliato" name="programma_dettagliato">Programma dettagliato</a>###
+
+
+
+Introduzione al trattamento dati con SAS©
+
+Il dataset SAS, creazione di un dataset, caricamento e salvataggio di un dataset.
+
+Dati per 6/10: <a title="http://www.statistica.unimib.it/~dellavedova/didattica/lab_statistico-informatico/Lezione01/wheat.txt" href="http://www.statistica.unimib.it/%7Edellavedova/didattica/lab_statistico-informatico/Lezione01/wheat.txt">wheat.txt</a> <a title="http://www.statistica.unimib.it/~dellavedova/didattica/lab_statistico-informatico/Lezione01/balloon" href="http://www.statistica.unimib.it/%7Edellavedova/didattica/lab_statistico-informatico/Lezione01/balloon">balloon</a> <a title="http://www.statistica.unimib.it/~dellavedova/didattica/lab_statistico-informatico/Lezione01/braziltourism.csv" href="http://www.statistica.unimib.it/%7Edellavedova/didattica/lab_statistico-informatico/Lezione01/braziltourism.csv">braziltourism.csv</a>.
+
+Descrizione dei dati
+
+Il data step, librerie, librerie temporanee e permanenti, variabili, array, dividere, fondere e ordinare dataset
+
+Inferire informazioni dai datii
+
+PROC MEANS, PROC CORR, PROC UNIVARIATE, PROC REG, PROC FREQ
+
+Rappresentazione tabulare dei dati
+
+PROC PRINT, PROC FORMAT
+
+Rappresentazione grafica dei dati
+
+PROC GPLOT
+
+
+
+###<a id="propedeuticita" name="propedeuticita">Propedeuticità</a>###
+
+
+
+Nessuna.
+
+
+
+
+
+###<a id="modalita_dell_esame" name="modalita_dell_esame">Modalità dell'esame</a>###
+
+
+
+
+L'esame consiste in una prova scritta da svolgere al calcolatore.
+
+
+
+###<a id="materiale_didattico" name="materiale_didattico">Materiale didattico</a>###
+
+
+
+Il libro di testo adottato è “The Little SAS Book”, SAS Institute.
+
+Ulteriori informazioni sono disponibili nella <a title="http://statistica.moodle.didattica.unimib.it/course/view.php?id=60" href="http://statistica.elearning.unimib.it/course/view.php?id=60">pagina relativa al corso</a> per le attività in e-learning.
+
+

@@ -1,0 +1,62 @@
+--- 
+
+layout: default
+title: Bioinformatica M - 2007-2008
+
+---
+
+##Obiettivi dell'attività formativa##
+
+L'attività formativa è svolta attraverso lezioni.
+
+Gli studenti interessati a seguire il corso sono fortemente consigliati a contattare il docente, in quanto l'orario effettivo di lezione verrà concordato con gli studenti prima dell'inizio del corso.
+
+##Programma riassuntivo##
+
+ARGOMENTIOre
+Algoritmi su sequenza biologiche12
+Algoritmi su filogenesi6
+Problemi su aplotipi e genotipi6
+TOTALE GENERALE24
+
+##Orario delle lezioni##
+
+GiornoOra	Aula
+Lunedì15.30-17.30	U7-16
+Venerdì13.30-15.30	U7-16
+
+##Programma dettagliato##
+
+
+#Data	Argomento
+15.5.2008 	Problemi computazionali. Complessità in tempo e spazio. P, PSPACE, NP, NP-hardness
+29.5.2008 	Ricerca di Motivi
+312.5.2008 	Ordinamento per inversioni
+416.5.2008 	Distanze fra due sequenze: Hamming, Edit
+519.5.2008 	Allineamento globale e locale di 2 sequenze. Allineamento multiplo
+623.5.2008 	Tecnica di Hirschberg
+726.5.2008 	Tecnica dei quattro russi
+830.5.2008 	Calcolo della superstringa più corta Sequenziamento per ibridazione
+96.6.2008 	Filogenesi. Introduzione e nozioni di distanze.
+109.6.2008 	Costruzione di filogenesi. Parte delle lezione si trova nel capitolo 11 di Molecular Systematics. D. Hillis, C. Moritz, B. Mable editors.
+1113.6.2008 	Pattern Matching
+1216.6.2008 	Aplotipi e genotipi. L'articolo da cui è tratta la lezione è scaricabile seguendo il link.
+
+##Propedeuticità##
+
+Nessuna.
+
+##Modalità dell'esame##
+
+L'esame consiste in una discussione orale di un argomento da concordare con il docente.
+
+L'argomento da discutere può essere un articolo pubblicato in una delle seguenti riviste: Bioinformatics, Journal of computational biology, Journal of Bioinformatics and Computational Biology, IEEE/ACM Transactions on Computational Biology and Bioinformatics. Tipicamente vanno bene anche articoli delle riviste Genome research, Nucleic Acids Research, BMC bioinformatics, EURASIP Journal on Bioinformatics and Systems Biology, PLoS Computational Biology, a patto che abbiano un contenuto algoritmico non banale. L'elenco delle riviste non è esaustivo, l'importante è concordare l'articolo con il docente.
+
+Un'altra possibilità è un argomento preso dai libri Algorithms on strings, trees, and sequences : computer science and computational biology / Dan Gusfield o Computational molecular biology : an algorithmic approach / Pavel A. Pevzner.
+
+In ogni caso è necessario contattare il docente per confermare l'argomento.
+
+E' sempre possibile scegliere un argomento (e non un articolo) da approfondire fra quelli trattati a lezione, e concordare col docente quale articolo approfondire.
+Materiale didattico
+
+Principalmente verrà utilizzato il libro “Introduction to Bioinformatics Algorithms” di N. Jones e P. Pevzner. Altro materiale verrà indicato durante le lezioni.

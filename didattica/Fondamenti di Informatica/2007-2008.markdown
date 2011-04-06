@@ -1,0 +1,39 @@
+--- 
+
+layout: default
+title: Fondamenti di Informatica - 2007-2008
+
+---
+
+<table>
+<tbody>
+<tr>
+<th>Data</th>
+<th>Contenuto della lezione</th>
+</tr>
+<tr>
+<td>1.12.2007 h.9-13</td>
+<td>Architettura di un sistema di elaborazione. <a title="http://www.statistica.unimib.it/~dellavedova/old/didattica/Fondamenti_di_informatica/lez1.pdf" href="http://gianluca.dellavedova.org/files/didattica/Fondamenti_di_informatica/lez2.pdf">lucidi</a></td>
+</tr>
+<tr>
+<td>4.12.2007 h.9-13</td>
+<td>Sistemi operativi. <a title="http://www.statistica.unimib.it/~dellavedova/old/didattica/Fondamenti_di_informatica/lez2.pdf" href="http://gianluca.dellavedova.org/files/didattica/Fondamenti_di_informatica/lez2.pdf">lucidi</a></td>
+</tr>
+<tr>
+<td>11.1.2008 h.9-13</td>
+<td>Cenni di algoritmi e strutture dati. <a title="http://www.statistica.unimib.it/~dellavedova/old/didattica/Fondamenti_di_informatica/lez3.pdf" href="http://gianluca.dellavedova.org/files/didattica/Fondamenti_di_informatica/lez3.pdf">lucidi</a></td>
+</tr>
+<tr>
+<td>25.1.2008 h.9-13</td>
+<td>Compilatore, interprete, debugger.Programmazione in <acronym title="Practical Extraction and Report Language">Perl</acronym>. <a title="http://www.statistica.unimib.it/~dellavedova/old/didattica/Fondamenti_di_informatica/lez4.pdf" href="http://gianluca.dellavedova.org/files/didattica/Fondamenti_di_informatica/lez4.pdf">lucidi</a></td>
+</tr>
+</tbody>
+</table>
+
+
+##<a id="materiale_didattico" name="materiale_didattico">Materiale didattico</a>##
+
+
+I libri consigliati sono “Informatica: arte e mestiere”, Ceri,  Mandrioli, Sbattella McGraw-Hill,2004 e “Informatica. Una panoramica  generale” J.Glenn Brookshear Pearson Addison Weasley, 2004, oltre al  “Corso di <acronym title="Practical Extraction and Report Language">Perl</acronym>”. Si tenga presente che tutti questi libri sono notevolmente più dettagliati di quanto non venga fatto a lezione.
+
+Per sostenere l'esame è sufficiente seguire con attenzione a lezione e  rivedere i lucidi proiettati con eventuali appunti presi a lezione.

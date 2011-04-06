@@ -1,0 +1,66 @@
+---
+
+layout: default
+title: "Algoritmica su stringhe - 2009-10"
+
+---
+
+###Obiettivi formativi###
+
+Il corso introduce i principali algoritmi di ricerca e analisi di testi che trovano applicazione
+nella realizzazione di strumenti software oggi utilizzati in vari contesti applicativi, fra cui la Bioinformatica.
+
+* Algoritmi di pattern matching esatto:Knuth-Morris-Pratt, Boyer-Moore, Karp-Rabin. Bit-parallel.
+* Suffix trees e suffix arrays.
+* Pattern matching approssimato.
+* Compressione di testi.
+* Espressioni regolari.
+* Allineamento di sequenze.
+
+###Risultati di apprendimento previsti###
+
+Si prevede che lo studente acquisisca l'abilità  di progettare e implementare algoritmi di ricerca di pattern e compressione dati.
+
+###Orario###
+
+Di norma l'orario effettivo di lezione è Mer 10-13.
+
+###Modalità  di esame###
+
+L'esame consiste in uno scritto e un progetto.
+
+Lo scritto prevede alcune domande sugli argomenti trattati nel corso.
+
+Il progetto deve essere concordato individualmente con il docente. Deve essere svolto individualmente e può avere sia carattere implementativo che teorico. Il progetto deve essere consegnato entro sette giorni dalla data dello scritto ed è valido per un anno accademico (rimane valido anche se non viene superato lo scritto). Nel caso di scritto sostenuto nel primo appello, è possibile consegnare il progetto entro un mese dalla data dello scritto.
+
+Il punteggio finale viene ottenuto per il 25% dalla valutazione dello scritto e per il 75% dalla valutazione del progetto. Devono però avere entrambi una valutazione positiva.
+
+###Materiale didattico###
+
+Il libro di testo adottato è "Algorithms on Strings, Trees and Sequences", di Daniel Gusfiled, Cambridge Univ. Press.
+Ulteriore materiale verrà  indicato dal docente durante le lezioni.
+
+###Diario delle lezioni###
+
+
+
+1. Pattern matching. Algoritmo di Knuth-Morris-Pratt.
+1. Cenni dell'algoritmo di Aho-Corasick. Algoritmo di Boyer-Moore.
+1. Algoritmi basati su NFA. Algoritmi seminumerici. Pattern matching approssimato: agrep. Programmazione dinamica.
+1. Algoritmo di Karp-Rabin. Algoritmi basati su FFT.
+1. Alberi di suffisso: Definizioni. Array di suffisso: Definizioni. Relazioni fra alberi di suffisso e array.
+1. Array di suffisso: algoritmo per la costruzione
+   [lucidi](http://courses.csail.mit.edu/6.851/spring10/scribe/lec07.pdf)
+[articolo](http://algo2.iti.kit.edu/english/736.php)
+1. Array di suffisso: algoritmi per il pattern matching.
+1. Applicazioni degli alberi di suffisso: sottostringa più lunga. Grafo delle parole (DAWG). Compressione tipo Lempel-Ziv con alberi di suffisso.
+1. Applicazioni degli alberi di suffisso: ricerca di stringhe contenute in altre stringhe. Altre applicazioni degli alberi di suffisso: ricerca dei palindromi, matching con wildcard
+1. Tandem repeats, sottostringa comune più lunga. Tandem repeats in stringhe circolari.
+1. Algoritmi per pattern matching approssimato: Baeza-Yates Perleberg, Chang Lawler, Myers
+1. Distanza di edit pesata: algoritmi basati su alberi di suffisso.
+1. Tecnica di Hirschberg. Distanza di edit con banda.
+1. Tecnica dei quattro russi.
+1. Allineamento locale e globale di 2 sequenze. Gap (definizioni)
+1. Algoritmi per gap generici, affini e convessi. Allineamento di k sequenze: Programmazione dinamica, algoritmo di Carrillo-Lipman.
+1. Espressioni regolari.
+1. Cenni di compressione LZ, Burrows-Wheeler (Bzip)
