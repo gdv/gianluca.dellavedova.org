@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Gianluca Della Vedova</title>
+ <link href="http://gianluca.dellavedova.org/atom.xml" rel="self"/>
+ <link href="http://gianluca.dellavedova.org/"/>
+ <updated>2011-04-06T13:25:37+02:00</updated>
+ <id>http://gianluca.dellavedova.org/</id>
+ <author>
+   <name>Gianluca Della Vedova</name>
+ </author>
+
+ 
+ <entry>
+   <title>Clarified Artistic License</title>
+   <link href="http://gianluca.dellavedova.org/blog/:title"/>
+   <updated>2011-01-03T12:25:07+01:00</updated>
+   <id>http://gianluca.dellavedova.org/blog/clarified-artistic-license</id>
+   <content type="html">&lt;h2 id='clarified_artistic_license'&gt;Clarified Artistic License&lt;/h2&gt;
+
+&lt;p&gt;For some reasons that are totally unkown to me, some websites keep linking to my older website for a text of the Clarified Artistic License, so I decided to report it here. In 1998 I wrote the &lt;a href='https://github.com/gdv/Reduce-Expand-for-LCS'&gt;implementation&lt;/a&gt; of the Reduce-Expand algorithm for solving the LCS (Longest Common Subsequence) problem. At the time my understanding of free software licenses was pretty naive, so I settled for the Clarified Artistic License, which was the ncftp license with a few very minor rewordings. Today I feel quite a pain when I see a new software license, as I think that the fragmentation of the various license is a small but totally unnecessary hurdle towards world domination. As a consequence, I support only &lt;a href='https://secure.wikimedia.org/wikipedia/en/wiki/GPL'&gt;GPL&lt;/a&gt;/&lt;a href='https://secure.wikimedia.org/wikipedia/en/wiki/GNU_Lesser_General_Public_License'&gt;LGPL&lt;/a&gt;/&lt;a href='https://secure.wikimedia.org/wikipedia/en/wiki/Affero_General_Public_License'&gt;AGPL&lt;/a&gt;. I understand that somebody might prefer adoption to preserving software freedom and consequently chooses a &lt;a href='https://secure.wikimedia.org/wikipedia/en/wiki/Bsd_license'&gt;BSD license&lt;/a&gt;, but that is not my choice. Especially after the &lt;a href='http://jmri.sourceforge.net/k/summary.shtml'&gt;JMRI trial&lt;/a&gt; I believe that copyleft licenses should really be the default option, so I changed the license of my implementation to the GPL.&lt;/p&gt;
+
+&lt;p&gt;Anyway, in case you find it useful, the text of the Clarified Artistic License is below.&lt;/p&gt;
+&lt;strong&gt;Preamble&lt;/strong&gt;
+&lt;p&gt;The intent of this document is to state the conditions under which a Package may be copied, such that the Copyright Holder maintains some semblance of artistic control over the development of the package, while giving the users of the package the right to use and distribute the Package in a more-or-less customary fashion, plus the right to make reasonable modifications.&lt;/p&gt;
+&lt;strong&gt;Definitions:&lt;/strong&gt;
+&lt;p&gt;&amp;#8220;Package&amp;#8221; &lt;dfn&gt;refers to the collection of files distributed by the Copyright Holder, and derivatives of that collection of files created through textual modification.&lt;/dfn&gt; &amp;#8220;Standard Version&amp;#8221; &lt;dfn&gt;refers to such a Package if it has not been modified, or has been modified in accordance with the wishes of the Copyright Holder as specified below.&lt;/dfn&gt; &amp;#8220;Copyright Holder&amp;#8221; &lt;dfn&gt;is whoever is named in the copyright or copyrights for the package.&lt;/dfn&gt; &amp;#8220;You&amp;#8221; &lt;dfn&gt;is you, if you're thinking about copying or distributing this Package.&lt;/dfn&gt; &amp;#8220;Distribution fee&amp;#8221; &lt;dfn&gt;is a fee you charge for providing a copy of this Package to another party.&lt;/dfn&gt; &amp;#8220;Freely Available&amp;#8221; &lt;dfn&gt;means that no fee is charged for the right to use the item, though there may be fees involved in handling the item. It also means that recipients of the item may redistribute it under the same conditions they received it.&lt;/dfn&gt; &lt;ol&gt;
+	&lt;li&gt;You may make and give away verbatim copies of the source form of the Standard Version of this Package without restriction, provided that you duplicate all of the original copyright notices and associated disclaimers.&lt;/li&gt;
+	&lt;li&gt;You may apply bug fixes, portability fixes and other modifications derived from the Public Domain, or those made Freely Available, or from the Copyright Holder. A Package modified in such a way shall still be considered the Standard Version.&lt;/li&gt;
+	&lt;li&gt;You may otherwise modify your copy of this Package in any way, provided that you insert a prominent notice in each changed file stating how and when you changed that file, and provided that you do at least ONE of the following:
+&lt;ol&gt;
+	&lt;li&gt;place your modifications in the Public Domain or otherwise make them Freely Available, such as by posting said modifications to Usenet or an equivalent medium, or placing the modifications on a major network archive site allowing unrestricted access to them, or by allowing the Copyright Holder to include your modifications in the Standard Version of the Package.&lt;/li&gt;
+	&lt;li&gt;use the modified Package only within your corporation or organization.&lt;/li&gt;
+	&lt;li&gt;rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.&lt;/li&gt;
+	&lt;li&gt;make other distribution arrangements with the Copyright Holder.&lt;/li&gt;
+	&lt;li&gt;permit and encourge anyone who receives a copy of the modified Package permission to make your modifications Freely Available in some specific way.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+	&lt;li&gt;You may distribute the programs of this Package in object code or executable form, provided that you do at least ONE of the following:
+&lt;ol&gt;
+	&lt;li&gt;distribute a Standard Version of the executables and library files, together with instructions (in the manual page or equivalent) on where to get the Standard Version.&lt;/li&gt;
+	&lt;li&gt;accompany the distribution with the machine-readable source of the Package with your modifications.&lt;/li&gt;
+	&lt;li&gt;give non-standard executables non-standard names, and clearly document the differences in manual pages (or equivalent), together with instructions on where to get the Standard Version.&lt;/li&gt;
+	&lt;li&gt;make other distribution arrangements with the Copyright Holder.&lt;/li&gt;
+	&lt;li&gt;offer the machine-readable source of the Package, with your modifications, by mail order.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+	&lt;li&gt;You may charge a distribution fee for any distribution of this Package. If you offer support for this Package, you may charge any fee you choose for that support. You may not charge a license fee for the right to use this Package itself. You may distribute this Package in aggregate with other (possibly commercial and possibly nonfree) programs as part of a larger (possibly commercial and possibly nonfree) software distribution, and charge license fees for other parts of that software distribution, provided that you do not advertise this Package as a product of your own. If the Package includes an interpreter, You may embed this Package's interpreter within an executable of yours (by linking); this shall be construed as a mere form of aggregation, provided that the complete Standard Version of the interpreter is so embedded.&lt;/li&gt;
+	&lt;li&gt;The scripts and library files supplied as input to or produced as output from the programs of this Package do not automatically fall under the copyright of this Package, but belong to whoever generated them, and may be sold commercially, and may be aggregated with this Package. If such scripts or library files are aggregated with this Package via the so-called &quot;undump&quot; or &quot;unexec&quot; methods of producing a binary executable image, then distribution of such an image shall neither be construed as a distribution of this Package nor shall it fall under the restrictions of Paragraphs 3 and 4, provided that you do not represent such an executable image as a Standard Version of this Package.&lt;/li&gt;
+	&lt;li&gt;C subroutines (or comparably compiled subroutines in other languages) supplied by you and linked into this Package in order to emulate subroutines and variables of the language defined by this Package shall not be considered part of this Package, but are the equivalent of input as in Paragraph 6, provided these subroutines do not change the language in any way that would cause it to fail the regression tests for the language.&lt;/li&gt;
+	&lt;li&gt;Aggregation of the Standard Version of the Package with a commercial distribution is always permitted provided that the use of this Package is embedded; that is, when no overt attempt is made to make this Package's interfaces visible to the end user of the commercial distribution. Such use shall not be construed as a distribution of this Package.&lt;/li&gt;
+	&lt;li&gt;The name of the Copyright Holder may not be used to endorse or promote products derived from this software without specific prior written permission.&lt;/li&gt;
+	&lt;li&gt;THIS PACKAGE IS PROVIDED &quot;AS IS&quot; AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A  PARTICULAR PURPOSE.&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,100 @@
+/*
+Original design: 1024px (v3.0 - Jun 01, 2010) - A free xhtml/css website template by Andreas Viklund.
+For more information, see http://andreasviklund.com/templates/1024px/
+*/
+
+/* Body */
+body {background:#fff ; color:#404040; font:86% Verdana,Tahoma,Arial,sans-serif; line-height:1.3em; padding:20px 0;}
+*{margin:0; padding:0;}
+
+
+/* Headers */
+h1 {color:#4088b8; font-size:3em; line-height:0.8em; letter-spacing:-2px; margin:10px 0 10px 0px; }
+h1 a {color:#4088b8;
+h1 a {color:#4088b8; text-transform:none;}
+h2 {border-bottom:4px solid #dadada; color:#4088b8; font-size:1.4em; letter-spacing:-1px; margin:0 0 10px; padding:0 2px 2px 5px;}
+h3 {border-bottom:1px solid #dadada; color:#4088b8; font-size:1.2em; font-weight:700; margin:10px 0 8px; padding:1px 2px 2px 3px;}
+
+/* Main wrap */
+#wrap {color:#404040; margin:0 auto; width:97%; max-width: 1400px}
+#slogan {color:#808080; font-size:1.5em; font-weight:bold; letter-spacing:-1px; line-height:1.2em; margin:25px 0 20px 0px;}
+#toplinks {padding:5px 2px 2px 3px; text-align:right;}
+
+/* Sidebar */
+#sidebar {float:left; margin:0 0 5px; padding:0; width:18%; min-width: 150px}
+#sidebar p,#sidebar ul,#sidebar .textwidget {margin:0 0 15px 10px;}
+#sidebar li {list-style:none; margin:0 0 6px;}
+#sidebar li a {font-size:1.2em; font-weight:bold; padding:2px;}
+#sidebar ul ul {margin:5px 0 5px 10px;}
+#sidebar ul ul li {margin:0 0 5px;}
+#sidebar ul ul li a {font-weight:normal;}
+
+/* Content */
+#content {float:right; line-height:1.5em; margin:-2px 0px 10px; text-align:left; width:80%; }
+#content ul,#content ol {margin:0 0 18px 30px;}
+#content ul li,#content ol li {margin:0 0 3px;}
+#content ul ul,#content ol ol {margin:5px 0 5px 15px;}
+#content img {margin:5px;}
+#content p {margin:0 0 15px 10px;}
+#content p.timestamp {font-size:1.2em; margin:-5px 0 15px 10px;}
+#content p.timestamp a {font-weight:normal;}
+#content p.postmeta {text-align:right; border-top:2px solid #dadada; line-height:1.8em;}
+#content #postnav {padding:5px; margin:5px 0 18px;}
+#content #postnav p {margin:0; padding-left:5px;}
+#content #postnav p.right {text-align:right; padding-right:5px; margin-top:-18px;}
+#content .introtext p {margin:-5px 0 15px 10px;}
+
+/* Footer */
+#footer {border-top:4px solid #dadada; clear:both; color:#808080; font-size:0.8em; line-height:1.6em; margin:0 auto; padding:8px 0; text-align:right}
+#footer p {margin:0; padding:0;}
+#footer a {color:#808080; font-weight:bold}
+#footer a:hover {text-decoration:underline;}
+#footer span, #footer span a {font-weight:normal;}
+
+/* Comments */
+#content div.comment {margin-bottom:20px;}
+#content div.comment p {margin:0 0 4px 10px; padding:3px 0 0 0;}
+#respond p {margin:0 0 5px 10px;}
+#respond input,#respond textarea {padding:5px; width:330px;}
+#respond textarea#comment {width:700px;}
+#respond input#submit {width:75px;color:#333; background-color:#fff;}
+#respond input,#respond textarea,form div.searchbox input {font:94% Verdana,Tahoma,Arial,sans-serif; border:1px solid #ccc;}
+.gravatarside {width:48px; height:48px; float:right; margin:0 5px 3px 5px;}
+
+/* Tags */
+blockquote {border:1px solid #dadada; font-size:0.9em; margin:20px 10px; padding:8px;}
+blockquote p {padding:2px 0; margin:0; font-weight:bold;}
+table#wp-calendar {width:180px; margin:0 0 18px 10px;}
+p {margin:0 0 18px 10px;}
+ul,ol,dl {font-size:0.9em; margin:2px 0 16px 35px;}
+ul ul,ol ol {margin:4px 0 4px 35px;}
+code{font-size:1.1em; background-color:#f4f4f4; color:#555; display:block; margin:5px 0 15px 0; padding:5px 5px 5px 7px; border:1px solid #ccc;}
+
+/* Links */
+a {color:#4088b8; font-weight:bold; text-decoration:none;}
+a:hover {text-decoration:underline;}
+a img {border:0;}
+
+/* Float fix */
+.contenttext {overflow:hidden;}
+* html .contenttext {height:1px; overflow:visible;}
+* * html .contenttext p {overflow:hidden; width:99%;}
+*
+*/* Searchbox */
+.searchbox {margin:8px 0 15px 10px;}
+.searchbox label {display:none;}
+.searchbox input {font-size:0.9em; padding:5px; min-width:100px; width:90%; border:1px solid #ccc;}
+
+/* Various classes */
+.post {margin:0 0 15px;}
+.textright {text-align:right;}
+.textcenter {text-align:center;}
+.hide {display:none;}
+
+/* WP image align classes */
+.aligncenter {display:block; margin-left:auto; margin-right:auto;}
+.alignleft {float:left;}
+.alignright {float:right;}
+.wp-caption {border:1px solid #ddd; text-align:center; background-color:#f3f3f3; padding-top:4px; margin:10px; border-radius:3px;}
+.wp-caption img {margin:0; padding:0; border:0 none;}
+.wp-caption-dd {font-size: 11px; line-height: 17px; padding:0 4px 5px; margin:0;}

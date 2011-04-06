@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:ctag="http://commontag.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:statusnet="http://status.net/ont/" xmlns="http://purl.org/rss/1.0/">
+ <sioc:Site rdf:about="http://identi.ca/">
+  <sioc:name>Identi.ca</sioc:name>
+  <sioc:space_of>
+   <sioc:Container rdf:about="http://identi.ca/gianlucadellavedova/rss"></sioc:Container>
+</sioc:space_of>
+</sioc:Site>
+ <channel rdf:about="http://identi.ca/gianlucadellavedova/rss">
+  <title>gianlucadellavedova timeline</title>
+  <link>http://identi.ca/gianlucadellavedova</link>
+  <description>Updates from gianlucadellavedova on Identi.ca!</description>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="http://identi.ca/notice/65369605"></rdf:li>
+    <rdf:li rdf:resource="http://identi.ca/notice/62018342"></rdf:li>
+</rdf:Seq>
+</items>
+</channel>
+ <item rdf:about="http://identi.ca/notice/65369605" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>gianlucadellavedova: Dal 28/2 il ricevimento studenti è: Martedì dalle 14 alle 15</title>
+  <link>http://identi.ca/notice/65369605</link>
+  <description>gianlucadellavedova's status on Friday, 25-Feb-11 10:42:17 UTC</description>
+  <content:encoded>Dal 28/2 il ricevimento studenti è: Martedì dalle 14 alle 15</content:encoded>
+  <dc:date>2011-02-25T10:42:17+00:00</dc:date>
+  <dc:creator>Gianluca Della Vedova</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/177380"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/177380#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://theme.identi.ca/0.9.7/identica/default-avatar-profile.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/64606676"></sioc:has_discussion>
+</item>
+ <item rdf:about="http://identi.ca/notice/62018342" rdf:type="http://rdfs.org/sioc/types#MicroblogPost">
+  <title>gianlucadellavedova: Il ricevimento studenti del 10/1 è annullato. Chi ha necessità può contattarmi via email.</title>
+  <link>http://identi.ca/notice/62018342</link>
+  <description>gianlucadellavedova's status on Wednesday, 12-Jan-11 04:50:23 UTC</description>
+  <content:encoded>Il ricevimento studenti del 10/1 è annullato. Chi ha necessità può contattarmi via email.</content:encoded>
+  <dc:date>2011-01-12T04:50:23+00:00</dc:date>
+  <dc:creator>Gianluca Della Vedova</dc:creator>
+  <foaf:maker rdf:resource="http://identi.ca/user/177380"></foaf:maker>
+  <sioc:has_creator rdf:resource="http://identi.ca/user/177380#acct"></sioc:has_creator>
+  <statusnet:postIcon rdf:resource="http://theme.identi.ca/0.9.7/identica/default-avatar-profile.png"></statusnet:postIcon>
+  <cc:licence rdf:resource="http://creativecommons.org/licenses/by/3.0/"></cc:licence>
+  <sioc:has_discussion rdf:resource="http://identi.ca/conversation/61354790"></sioc:has_discussion>
+</item>
+ <foaf:Agent rdf:about="http://identi.ca/user/177380">
+  <foaf:nick>gianlucadellavedova</foaf:nick>
+  <foaf:name>Gianluca Della Vedova</foaf:name>
+  <foaf:holdsAccount rdf:resource="http://identi.ca/user/177380#acct"></foaf:holdsAccount>
+  <foaf:depiction rdf:resource="http://theme.identi.ca/0.9.7/identica/default-avatar-profile.png"></foaf:depiction>
+</foaf:Agent>
+</rdf:RDF>
