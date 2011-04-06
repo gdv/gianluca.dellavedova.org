@@ -10,9 +10,9 @@ L'attività formative sono in e-learning
 
 ##Edizione corrente:##
 
-[2010-2011](2010-11.html)
+[2010-2011](2010-2011.html)
 
 ##Edizioni passate:##
 
-[2009-2010](2009-10.html)
-[2008-2009](2008-09.html)
+[2009-2010](2009-2010.html)
+[2008-2009](2008-2009.html)

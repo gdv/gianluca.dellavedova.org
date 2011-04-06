@@ -8,7 +8,7 @@ Il corso tratta le nozioni principali di basi di dati, ed in particolare la tecn
 
 ##Edizione corrente##
 
-[2009-2010](2009-10.html)
+[2009-2010](2009-2010.html)
 In precedenza era: Programmazione e Basi Dati
 
 ##Edizioni passate##
