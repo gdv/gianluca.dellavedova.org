@@ -2,3 +2,4 @@ auto : false
 lsi : false
 pygments : true
 markdown : maruku
+permalink: /:title
