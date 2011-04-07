@@ -1,7 +1,7 @@
 --- 
 
 layout: default
-title: "Algoritmica su stringhe \xE2\x80\x93 2008-09"
+title: "Algoritmica su stringhe 2008-09"
 
 ---
 
