@@ -37,7 +37,7 @@ Il punteggio finale viene ottenuto per il 25% dalla valutazione dello scritto e 
 
 ###Materiale didattico###
 
-Il libro di testo adottato è "Algorithms on Strings, Trees and Sequences", di Daniel Gusfiled, Cambridge Univ. Press.
+Il libro di testo adottato è "Algorithms on Strings, Trees and Sequences", di Daniel Gusfield, Cambridge Univ. Press.
 Ulteriore materiale verrà  indicato dal docente durante le lezioni.
 
 ###Diario delle lezioni###
@@ -52,10 +52,13 @@ Ulteriore materiale verrà  indicato dal docente durante le lezioni.
 1. Array di suffisso: algoritmo per la costruzione
    [lucidi](http://courses.csail.mit.edu/6.851/spring10/scribe/lec07.pdf)
 [articolo](http://algo2.iti.kit.edu/english/736.php)
-1. Array di suffisso: algoritmi per il pattern matching.
-1. Applicazioni degli alberi di suffisso: sottostringa più lunga. Grafo delle parole (DAWG). Compressione tipo Lempel-Ziv con alberi di suffisso.
-1. Applicazioni degli alberi di suffisso: ricerca di stringhe contenute in altre stringhe. Altre applicazioni degli alberi di suffisso: ricerca dei palindromi, matching con wildcard
+1. Array di suffisso: algoritmi per il pattern matching. Alberi di
+   suffisso generalizzati.
+1. Applicazioni degli alberi di suffisso: sottostringa più lunga. Grafo delle parole (DAWG). 
+1. Algoritmo per calcolare lca di due foglie in tempo costante.
+Compressione tipo Lempel-Ziv con alberi di suffisso.
 1. Tandem repeats, sottostringa comune più lunga. Tandem repeats in stringhe circolari.
+Applicazioni degli alberi di suffisso: ricerca di stringhe contenute in altre stringhe. Altre applicazioni degli alberi di suffisso: ricerca dei palindromi, matching con wildcard
 1. Algoritmi per pattern matching approssimato: Baeza-Yates Perleberg, Chang Lawler, Myers
 1. Distanza di edit pesata: algoritmi basati su alberi di suffisso.
 1. Tecnica di Hirschberg. Distanza di edit con banda.
