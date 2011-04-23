@@ -1,18 +1,18 @@
---- 
-
+---
 layout: default
 title: Basi di Dati
-
 ---
-Il corso tratta le nozioni principali di basi di dati, ed in particolare la tecnica di modellazione Entità-Relazione e il linguaggio SQL per definire ed interrogare le basi di dati.
+Il corso tratta le nozioni principali di basi di dati, ed in particolare la 
+tecnica di modellazione Entità-Relazione e il linguaggio SQL per definire ed interrogare le basi di dati.
 
 ##Edizione corrente##
 
-[2009-2010](2009-2010.html)
-In precedenza era: Programmazione e Basi Dati
+[2010-2011](2010-2011.html)
 
 ##Edizioni passate##
 
+[2009-2010](2009-2010.html)
+In precedenza era: Programmazione e Basi Dati
 [2008-2009](2008-09.html)
 [2007-2008](2007-08.html)
 [2006-2007](2006-07.html)
@@ -31,4 +31,5 @@ La data viene fissata il giorno della prova scritta, di solito è 2-3 giorni dop
 
 ####Quanto l'orale influisce sul voto?####
 
-Al massimo per tre punti, ma normalmente permette di modificare di un punto il voto dello scritto.
+Al massimo per tre punti, ma normalmente permette di modificare di al massimo
+un punto il voto dello scritto.

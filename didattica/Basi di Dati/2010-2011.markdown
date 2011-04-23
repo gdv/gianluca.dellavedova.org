@@ -1,0 +1,70 @@
+--- 
+layout: default
+title: Basi di Dati - 2010-2011
+---
+
+##Obiettivi dell'attività formativa##
+
+Il corso si propone di introdurre alcuni strumenti informatici avanzati per il trattamento delle informazioni. Un primo obiettivo consiste nella presentazione del modello Entità-Relazione per la rappresentazione di dati. Successivamente verrà introdotto un linguaggio di programmazione e mostrato come tale linguaggio permetta di operare sui dati. L'ultimo obiettivo è l'introduzione alle basi di dati, con particolare riferimento alla modellazione ed alla interrogazione delle stesse.
+
+L'attività formativa è svolta attraverso lezioni.
+
+##Programma##
+
+*  Fondamenti di basi di dati.
+*  Nozioni di progettazione concettuale: Suddivisione logica fra schemi e istanze; Criteri di rappresentazione; Obiettivi della progettazione.
+*  Tecniche di progettazione: Strategie top-down, bottom-up
+*  Modello relazionale: Algebra relazionale; Chiavi e vincoli di integrità; Prima e terza forma normale e loro proprietà.
+ SQL: Concetti fondamentali dei linguaggi di programmazione; Definizione di schemi e tabelle.
+* Come gestire i dati in formato tabellare in SQL.
+*  Collegare informazioni memorizzate in tabelle diverse. Estrazione di informazioni in tabelle. Viste.
+ Modello Entità-Relazione: Introduzione alla progettazione di basi di dati; Introduzione al modello E-R; Costrutti fondamentali e avanzati di E-R.
+* Tecniche di documentazione; Analisi di schemi E-R; Ristrutturazione di schemi;.
+*  Da E-R a modello relazionale; Relazioni uno a uno; Relazioni uno a molti, molti a uno, molti a molti.
+
+##Propedeuticità##
+
+Nessuna
+
+##Modalità di esame##
+
+L'esame consiste in una prova scritta (dove viene verificata la capacità di progettazione di un diagramma ER e la conoscenza di SQL) ed una orale.
+
+##Materiale didattico##
+
+Il libro di testo adottato è “Basi di dati, Modelli e Linguaggi di interrogazione”, Atzeni, Ceri, Paraboschi, Torlone, McGraw-Hill.
+
+Le parti relative a trigger e Data Warehouse si trovano nel libro Basi di dati: Architetture e linee di evoluzione, P. Atzeni, S. Ceri, P. Fraternali, S. Paraboschi, R. Torlone McGraw-Hill Italia.
+
+Sono reperibili le [soluzioni](http://www.statistica.unimib.it/~dellavedova/files/esercizi_progettazione.pdf) 
+degli esercizi svolti.
+
+##Orario delle lezioni##
+
+Lunedì  9.10-11.30	U7-22
+Martedì 9.10-11.30	U7-22
+Mercoledì   14.30-16.00	U7-22
+
+L'orario sopra indicato è quello effettivo di lezione.
+
+##Elenco delle lezioni##
+
+
+*  Descrizione del corso. Basi di Dati e DBMS. Suddivisione logica fra schemi e istanze.
+* Il modello logico. Relazione come associazione fra oggetti. Definizione matematica di relazione. Il modello relazionale. Il valore NULL. Vincoli. Vincoli di integrità.
+* Chiavi di una tabella. Definizione di chiavi primaria.
+* Algebra relazionale: proiezione, restrizione, unione, intersezione, differenza.
+* Algebra relazionale: join naturale, join esterno e confronto con join naturale. Interrogazioni nel modello relazionale.
+* Cenni di calcolo relazionale.
+* Introduzione ai linguaggi di programmazione. SQL: definizione dei dati. Schemi, tabelle, domini. Vincoli intra e interrelazionali. Definizione di chiavi primaria. Vincoli di integrità. Differenza fra REFERENCES e FOREIGN KEY.
+* Restrizione di dominio. Modifica struttura di una tabella. Interrogazioni che coinvologono una tabella. SELECT .. FROM .. WHERE. Creazione di viste. GROUP BY. ORDER BY. Operatori aggregati. Interrogazioni che coinvologono almeno due tabelle. HAVING. Interrogazioni nidificate. Alias delle tabelle
+* Inserimento e modifica dati in una tabella.
+* Creazione di indici. Definizione di vista e vista materializzata. Check. Funzioni scalari
+* Motivazioni e obiettivi della progettazione concettuale. Criteri di rappresentazione. Modello Entità relazione: costrutti fondamentali
+* Modello Entità relazione: attributi, generalizzazioni. Progettazione concettuale di un database universitario. Chiavi di una entità. Cardinalità delle relazioni. Documentazione dello schema. Regole aziendali. Strategie top-down e bottom-up.
+* La progettazione logica come passo intermedio fra la progettazione concettuale e la realizzazione nel modello relazionale. Passare dallo schema ER alle tabelle.
+* Forma normale di Boyce-Codd. Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
+* Transazioni. Autoreferenzialità nei DBMS.
+* Trigger.
+* Sicurezza nelle basi di dati.
+* Cenni di Data Warehouse.
