@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 title: Basi di Dati - 2010-2011
 ---
@@ -36,7 +36,7 @@ Il libro di testo adottato è “Basi di dati, Modelli e Linguaggi di interrogaz
 
 Le parti relative a trigger e Data Warehouse si trovano nel libro Basi di dati: Architetture e linee di evoluzione, P. Atzeni, S. Ceri, P. Fraternali, S. Paraboschi, R. Torlone McGraw-Hill Italia.
 
-Sono reperibili le [soluzioni](http://www.statistica.unimib.it/~dellavedova/files/esercizi_progettazione.pdf) 
+Sono reperibili le [soluzioni](http://www.statistica.unimib.it/~dellavedova/files/esercizi_progettazione.pdf)
 degli esercizi svolti.
 
 ##Orario delle lezioni##
@@ -46,25 +46,40 @@ Martedì 10.30-13.00	U7-22
 Mercoledì   9.10-10.30	U7-22
 
 L'orario sopra indicato è quello effettivo di lezione.
+A partire dalla terza settimana, il Mercoledì vengono tenute delle esercitazioni.
+
 
 ##Elenco delle lezioni##
 
-
-*  Descrizione del corso. Basi di Dati e DBMS. Suddivisione logica fra schemi e istanze.
-* Il modello logico. Relazione come associazione fra oggetti. Definizione matematica di relazione. Il modello relazionale. Il valore NULL. Vincoli. Vincoli di integrità.
-* Chiavi di una tabella. Definizione di chiavi primaria.
-* Algebra relazionale: proiezione, restrizione, unione, intersezione, differenza.
-* Algebra relazionale: join naturale, join esterno e confronto con join naturale. Interrogazioni nel modello relazionale.
-* Cenni di calcolo relazionale.
-* Introduzione ai linguaggi di programmazione. SQL: definizione dei dati. Schemi, tabelle, domini. Vincoli intra e interrelazionali. Definizione di chiavi primaria. Vincoli di integrità. Differenza fra REFERENCES e FOREIGN KEY.
-* Restrizione di dominio. Modifica struttura di una tabella. Interrogazioni che coinvologono una tabella. SELECT .. FROM .. WHERE. Creazione di viste. GROUP BY. ORDER BY. Operatori aggregati. Interrogazioni che coinvologono almeno due tabelle. HAVING. Interrogazioni nidificate. Alias delle tabelle
-* Inserimento e modifica dati in una tabella.
-* Creazione di indici. Definizione di vista e vista materializzata. Check. Funzioni scalari
-* Motivazioni e obiettivi della progettazione concettuale. Criteri di rappresentazione. Modello Entità relazione: costrutti fondamentali
-* Modello Entità relazione: attributi, generalizzazioni. Progettazione concettuale di un database universitario. Chiavi di una entità. Cardinalità delle relazioni. Documentazione dello schema. Regole aziendali. Strategie top-down e bottom-up.
-* La progettazione logica come passo intermedio fra la progettazione concettuale e la realizzazione nel modello relazionale. Passare dallo schema ER alle tabelle.
-* Forma normale di Boyce-Codd. Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
-* Transazioni. Autoreferenzialità nei DBMS.
-* Trigger.
-* Sicurezza nelle basi di dati.
-* Cenni di Data Warehouse.
+* Descrizione del corso. Basi di Dati e DBMS. Suddivisione logica fra schemi e
+ istanze.  Motivazioni e obiettivi della progettazione concettuale. Criteri di
+ rappresentazione. Strategie top-down e bottom-up.
+*  Modello Entità relazione: costrutti fondamentali, attributi,
+   generalizzazioni. Progettazione concettuale di un database universitario.
+*  Chiavi di una entità. Cardinalità delle relazioni. Documentazione dello
+   schema. Regole aziendali.
+*  Il modello logico. Relazione come associazione fra oggetti. Definizione
+     matematica di relazione. Il modello relazionale. Il valore NULL. Chiavi
+     di una tabella. Vincoli. Vincoli di integrità. Forma normale di
+     Boyce-Codd. Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
+*    La progettazione logica come passo intermedio fra la progettazione
+     concettuale e la realizzazione nel modello relazionale. Passare dallo
+     schema ER alle tabelle.Algebra relazionale: proiezione, restrizione,
+     unione, intersezione, differenza.
+*    Algebra relazionale: join naturale, join esterno e confronto con join
+     naturale. Interrogazioni nel modello relazionale.
+*    Introduzione ai linguaggi di programmazione. SQL: definizione dei dati.
+     Schemi, tabelle, domini. Vincoli intra e interrelazionali. Definizione di
+     chiavi primaria. Vincoli di integrità. Differenza fra REFERENCES e
+     FOREIGN KEY.
+*    Restrizione di dominio. Modifica struttura di una tabella. Inserimento e
+     modifica dati in una tabella. Creazione di indici. Definizione di vista e
+     vista materializzata.
+*   Interrogazioni che coinvologono una tabella. SELECT .. FROM .. WHERE.
+    Creazione di viste. GROUP BY. ORDER BY. Operatori aggregati.
+*   Interrogazioni che coinvologono almeno due tabelle. HAVING.
+*   Interrogazioni nidificate. Alias delle tabelle
+*   Check. Funzioni scalari.
+*    Trigger.
+*    Transazioni.
+*   Sicurezza nelle basi di dati. Cenni di Data Warehouse.
