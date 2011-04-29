@@ -80,6 +80,5 @@ A partire dalla terza settimana, il Mercoledì vengono tenute delle esercitazion
 *   Interrogazioni che coinvologono almeno due tabelle. HAVING.
 *   Interrogazioni nidificate. Alias delle tabelle
 *   Check. Funzioni scalari.
-*    Trigger.
-*    Transazioni.
+*    Trigger. Transazioni.
 *   Sicurezza nelle basi di dati. Cenni di Data Warehouse.
