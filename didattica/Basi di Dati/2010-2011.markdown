@@ -36,8 +36,10 @@ Il libro di testo adottato è “Basi di dati, Modelli e Linguaggi di interrogaz
 
 Le parti relative a trigger e Data Warehouse si trovano nel libro Basi di dati: Architetture e linee di evoluzione, P. Atzeni, S. Ceri, P. Fraternali, S. Paraboschi, R. Torlone McGraw-Hill Italia.
 
-Sono reperibili le [soluzioni](http://www.statistica.unimib.it/~dellavedova/files/esercizi_progettazione.pdf)
-degli esercizi svolti.
+Sono reperibili le [soluzioni](http://www.statistica.unimib.it/~dellavedova/didattica/BasiDati/esercizi_progettazione.pdf)
+degli esercizi svolti i 
+[lucidi](http://www.statistica.unimib.it/~dellavedova/didattica/BasiDati/lucidi_DB_stampa.pdf)
+ proiettati a lezione.
 
 ##Orario delle lezioni##
 
