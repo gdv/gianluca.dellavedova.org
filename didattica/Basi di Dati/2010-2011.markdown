@@ -58,8 +58,8 @@ A partire dalla terza settimana, il Mercoledì vengono tenute delle esercitazion
  rappresentazione. Strategie top-down e bottom-up.
 *  Modello Entità relazione: costrutti fondamentali, attributi,
    generalizzazioni. Progettazione concettuale di un database universitario.
-*  Chiavi di una entità. Cardinalità delle relazioni. Documentazione dello
-   schema. Regole aziendali.
+   Chiavi di una entità. Cardinalità delle relazioni. 
+*  Documentazione dello schema. Regole aziendali.
 *  Il modello logico. Relazione come associazione fra oggetti. Definizione
      matematica di relazione. Il modello relazionale. Il valore NULL. Chiavi
      di una tabella. Vincoli. Vincoli di integrità. Forma normale di
