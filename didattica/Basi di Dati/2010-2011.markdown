@@ -22,6 +22,10 @@ L'attività formativa è svolta attraverso lezioni.
 * Tecniche di documentazione; Analisi di schemi E-R; Ristrutturazione di schemi;.
 *  Da E-R a modello relazionale; Relazioni uno a uno; Relazioni uno a molti, molti a uno, molti a molti.
 
+
+In particolare vengono trattati tutti gli argomenti del libro di testo,
+tranne "Calcolo relazionale", "Datalog" e "SQL nei linguaggi di
+programmazione".
 ##Propedeuticità##
 
 Nessuna
@@ -50,37 +54,44 @@ Mercoledì   9.10-10.30	U7-22
 L'orario sopra indicato è quello effettivo di lezione.
 A partire dalla terza settimana, il Mercoledì vengono tenute delle esercitazioni.
 
+## Appelli di esame
+
+I primi appelli di esame saranno il 20/6 e il 11/7. Le date potrebbero
+subire cambiamenti solo per motivi indipendenti dalla mia volontà.
+
 
 ##Elenco delle lezioni##
 
-* Descrizione del corso. Basi di Dati e DBMS. Suddivisione logica fra schemi e
+1 Descrizione del corso. Basi di Dati e DBMS. Suddivisione logica fra schemi e
  istanze.  Motivazioni e obiettivi della progettazione concettuale. Criteri di
  rappresentazione. Strategie top-down e bottom-up.
-*  Modello Entità relazione: costrutti fondamentali, attributi,
+1  Modello Entità relazione: costrutti fondamentali, attributi,
    generalizzazioni. Progettazione concettuale di un database universitario.
    Chiavi di una entità. Cardinalità delle relazioni. 
-*  Documentazione dello schema. Regole aziendali.
-*  Il modello logico. Relazione come associazione fra oggetti. Definizione
+1  Documentazione dello schema. Regole aziendali.
+1  Il modello logico. Relazione come associazione fra oggetti. Definizione
      matematica di relazione. Il modello relazionale. Il valore NULL. Chiavi
-     di una tabella. Vincoli. Vincoli di integrità. Forma normale di
-     Boyce-Codd. Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
-*    La progettazione logica come passo intermedio fra la progettazione
+     di una tabella. Vincoli. Vincoli di integrità. 
+1    La progettazione logica come passo intermedio fra la progettazione
      concettuale e la realizzazione nel modello relazionale. Passare dallo
-     schema ER alle tabelle.Algebra relazionale: proiezione, restrizione,
+     schema ER alle tabelle.
+Algebra relazionale: proiezione, restrizione,
      unione, intersezione, differenza.
-*    Algebra relazionale: join naturale, join esterno e confronto con join
+1    Algebra relazionale: join naturale, join esterno e confronto con join
      naturale. Interrogazioni nel modello relazionale.
-*    Introduzione ai linguaggi di programmazione. SQL: definizione dei dati.
+    Forma normale di
+     Boyce-Codd. Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
+1    Introduzione ai linguaggi di programmazione. SQL: definizione dei dati.
      Schemi, tabelle, domini. Vincoli intra e interrelazionali. Definizione di
      chiavi primaria. Vincoli di integrità. Differenza fra REFERENCES e
      FOREIGN KEY.
-*    Restrizione di dominio. Modifica struttura di una tabella. Inserimento e
+1    Restrizione di dominio. Modifica struttura di una tabella. Inserimento e
      modifica dati in una tabella. Creazione di indici. Definizione di vista e
      vista materializzata.
-*   Interrogazioni che coinvologono una tabella. SELECT .. FROM .. WHERE.
+1   Interrogazioni che coinvologono una tabella. SELECT .. FROM .. WHERE.
     Creazione di viste. GROUP BY. ORDER BY. Operatori aggregati.
-*   Interrogazioni che coinvologono almeno due tabelle. HAVING.
-*   Interrogazioni nidificate. Alias delle tabelle
-*   Check. Funzioni scalari.
-*    Trigger. Transazioni.
-*   Sicurezza nelle basi di dati. Cenni di Data Warehouse.
+1   Interrogazioni che coinvologono almeno due tabelle. HAVING.
+1   Interrogazioni nidificate. Alias delle tabelle
+1   Check. Funzioni scalari.
+1    Trigger. Transazioni.
+1   Sicurezza nelle basi di dati. Cenni di Data Warehouse.
