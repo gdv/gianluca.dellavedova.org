@@ -36,6 +36,10 @@ Il progetto deve essere concordato individualmente con il docente. Deve essere s
 
 Il punteggio finale viene ottenuto per il 25% dalla valutazione dello scritto e per il 75% dalla valutazione del progetto. Devono però avere entrambi una valutazione positiva.
 
+Gli appelli saranno il 7/6 ore 11.00, il
+12/7 ore 10.30, il
+5/9 ore 10.30
+
 ###Materiale didattico###
 
 Il libro di testo adottato è "Algorithms on Strings, Trees and Sequences", di Daniel Gusfield, Cambridge Univ. Press.
@@ -55,7 +59,7 @@ Ulteriore materiale verrà  indicato dal docente durante le lezioni.
 [articolo](http://algo2.iti.kit.edu/english/736.php)
 1. Array di suffisso: algoritmi per il pattern matching. Alberi di
    suffisso generalizzati.
-1. Applicazioni degli alberi di suffisso: sottostringa più lunga. Grafo delle parole (DAWG). 
+1. Applicazioni degli alberi di suffisso: sottostringa più lunga. Grafo delle parole (DAWG).
 1. Algoritmo per calcolare lca di due foglie in tempo costante.
 Compressione tipo Lempel-Ziv con alberi di suffisso.
 1. Tandem repeats, sottostringa comune più lunga. Tandem repeats in stringhe circolari.
