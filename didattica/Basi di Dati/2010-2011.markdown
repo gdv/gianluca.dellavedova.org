@@ -80,8 +80,9 @@ Algebra relazionale: proiezione, restrizione,
 1.    Algebra relazionale: join naturale, join esterno e confronto con join
      naturale. Interrogazioni nel modello relazionale.
     Forma normale di
-     Boyce-Codd. Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
+     Boyce-Codd. 
 1.    Introduzione ai linguaggi di programmazione. SQL: definizione dei dati.
+Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
      Schemi, tabelle, domini. Vincoli intra e interrelazionali. Definizione di
      chiavi primaria. Vincoli di integrità. Differenza fra REFERENCES e
      FOREIGN KEY.
