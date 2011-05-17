@@ -41,7 +41,7 @@ Il libro di testo adottato è “Basi di dati, Modelli e Linguaggi di interrogaz
 Le parti relative a trigger e Data Warehouse si trovano nel libro Basi di dati: Architetture e linee di evoluzione, P. Atzeni, S. Ceri, P. Fraternali, S. Paraboschi, R. Torlone McGraw-Hill Italia.
 
 Sono reperibili le [soluzioni](http://www.statistica.unimib.it/~dellavedova/didattica/BasiDati/esercizi_progettazione.pdf)
-degli esercizi svolti i 
+degli esercizi svolti i
 [lucidi](http://www.statistica.unimib.it/~dellavedova/didattica/BasiDati/lucidi_DB_stampa.pdf)
  proiettati a lezione.
 
@@ -67,11 +67,11 @@ subire cambiamenti solo per motivi indipendenti dalla mia volontà.
  rappresentazione. Strategie top-down e bottom-up.
 1.  Modello Entità relazione: costrutti fondamentali, attributi,
    generalizzazioni. Progettazione concettuale di un database universitario.
-   Chiavi di una entità. Cardinalità delle relazioni. 
+   Chiavi di una entità. Cardinalità delle relazioni.
 1.  Documentazione dello schema. Regole aziendali.
 1.  Il modello logico. Relazione come associazione fra oggetti. Definizione
      matematica di relazione. Il modello relazionale. Il valore NULL. Chiavi
-     di una tabella. Vincoli. Vincoli di integrità. 
+     di una tabella. Vincoli. Vincoli di integrità.
 1.    La progettazione logica come passo intermedio fra la progettazione
      concettuale e la realizzazione nel modello relazionale. Passare dallo
      schema ER alle tabelle.
@@ -80,19 +80,19 @@ Algebra relazionale: proiezione, restrizione,
 1.    Algebra relazionale: join naturale, join esterno e confronto con join
      naturale. Interrogazioni nel modello relazionale.
     Forma normale di
-     Boyce-Codd. 
-1.    Introduzione ai linguaggi di programmazione. SQL: definizione dei dati.
-Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
+     Boyce-Codd.
+1.  Terza forma normale. Proprietà delle forme normali. Trasformazioni di schemi.
+      Introduzione ai linguaggi di programmazione. SQL: definizione dei dati.
      Schemi, tabelle, domini. Vincoli intra e interrelazionali. Definizione di
      chiavi primaria. Vincoli di integrità. Differenza fra REFERENCES e
      FOREIGN KEY.
-1.    Restrizione di dominio. Modifica struttura di una tabella. Inserimento e
-     modifica dati in una tabella. Creazione di indici. Definizione di vista e
-     vista materializzata.
-1.   Interrogazioni che coinvologono una tabella. SELECT .. FROM .. WHERE.
-    Creazione di viste. GROUP BY. ORDER BY. Operatori aggregati.
+1.   Restrizione di dominio. Modifica struttura di una tabella. Inserimento e
+     modifica dati in una tabella. Creazione di indici.
+     Interrogazioni che coinvolgono una tabella. SELECT .. FROM .. WHERE.
 1.   Interrogazioni che coinvologono almeno due tabelle. HAVING.
-1.   Interrogazioni nidificate. Alias delle tabelle
+1.   Interrogazioni nidificate. Alias delle tabelle.
+1.   Definizione di vista e vista materializzata.
+     Creazione di viste. GROUP BY. ORDER BY. Operatori aggregati.
 1.   Check. Funzioni scalari.
-1.    Trigger. Transazioni.
+1.   Trigger. Transazioni.
 1.   Sicurezza nelle basi di dati. Cenni di Data Warehouse.
