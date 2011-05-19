@@ -22,22 +22,17 @@ modeling of data bases by means of graphs.
 
 *     2000: Ph.D. Computer Science (Universit&agrave;&nbsp; di Milano), thesis
   Multiple Sequence Alignment and Phylogenetic Reconstruction: Theory and
-  Methods in Biological Data Analysis (<a
-  href="http://www.statistica.unimib.it/%7Edellavedova/papers/thesis.pdf"
-  title="http://gianluca.dellavedova.org/files/papers/thesis.pdf">pdf</a>)
-*     1995: M.Sc. Computer Science (Universit&agrave;&nbsp; di Milano), thesis Sequential and Parallel Algorithms for Graph Decomposition (in italian).
+  Methods in Biological Data Analysis [pdf](http://www.statistica.unimib.it/%7Edellavedova/papers/thesis.pdf)
+*     1995: M.Sc. Computer Science (Università di Milano), thesis Sequential and Parallel Algorithms for Graph Decomposition (in italian).
 
 
 ### Appointments
 
-*    2005 - current: Associate Professor, Universit&agrave;&nbsp; di
-     Milano-Bicocca
-*    2001 - 2005: Assistant Professor, Universit&agrave;&nbsp; di
-     Milano-Bicocca
+*    2005 - current: Associate Professor, Università degli Studi di Milano-Bicocca
+*    2001 - 2005: Assistant Professor, Università degli Studi di Milano-Bicocca
 
 ### Services
 
 
-        I am in the Program Committee of
-        [Cie 2013](http://www.illc.uva.nl/CiE/index.php?page=22_7).
+I am in the Program Committee of [Cie 2013](http://www.illc.uva.nl/CiE/index.php?page=22_7).
 
