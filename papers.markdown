@@ -22,7 +22,25 @@ explicit permission of the copyright holder.
 
 <tr valign="top">
 <td align="right">
-[<a name="bonizzoni10:_approx_clust_finger_vector_missin_values">1</a>]
+[<a name="Anonymizing-Binary-and-Small-Tables-is-Hard-to-Approximate-journal">1</a>]
+</td>
+<td>
+Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
+ Anonymizing binary and small tables is hard to approximate.
+ <em>Journal of Combinatorial Optimization</em>, 22:97-119, 2011.
+[&nbsp;<a href="http://dx.doi.org/10.1007/s10878-009-9277-y">DOI</a>&nbsp;| 
+<a href="http://arxiv.org/abs/arXiv:0707.0421">arXiv</a>&nbsp;]
+<blockquote>
+The problem of publishing personal data without giving up privacy is becoming increasingly important. An interesting formalization recently proposed is the k-anonymity. This approach requires that the rows in a table are clustered in sets of size at least k and that all the rows in a cluster become the same tuple, after the suppression of some records. The natural optimization problem, where the goal is to minimize the number of suppressed entries, is known to be NP-hard when the values are over a ternary alphabet, k=3 and the rows length is unbounded. In this paper we give a lower bound on the approximation factor that any polynomial-time algorithm can achieve on two restrictions of the problem, namely (i) when the records values are over a binary alphabet and k=3, and (ii) when the records have length at most 8 and k=4, showing that these restrictions of the problem are APX-hard.
+</blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right">
+[<a name="bonizzoni10:_approx_clust_finger_vector_missin_values">2</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
@@ -40,7 +58,7 @@ The problem of clustering fingerprint vectors with missing values is an interest
 
 <tr valign="top">
 <td align="right">
-[<a name="Beyond-evolutionary-trees">2</a>]
+[<a name="Beyond-evolutionary-trees">3</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Tao Jiang, Giulio
@@ -59,7 +77,7 @@ phylogenies to represent evolutionary histories.
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:Pure-Parsimony-Xor-Haplotyping">3</a>]
+[<a name="journal:Pure-Parsimony-Xor-Haplotyping">4</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Yuri Pirola, and Romeo
@@ -79,7 +97,7 @@ The haplotype resolution from xor-genotype data has been recently formulated as 
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:VariantsofConstrainedLongestCommonSubsequence">4</a>]
+[<a name="journal:VariantsofConstrainedLongestCommonSubsequence">5</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Yuri Pirola.
@@ -97,7 +115,7 @@ We consider a variant of the classical Longest Common Subsequence problem called
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:On-the-Approximation-of-Correlation-Clustering-and-Consensus-Clustering">5</a>]
+[<a name="journal:On-the-Approximation-of-Correlation-Clustering-and-Consensus-Clustering">6</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Tao Jiang.
@@ -116,7 +134,7 @@ The Correlation Clustering problem has been introduced recently as a model for c
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:Exemplar-Longest-Common-Subsequence">6</a>]
+[<a name="journal:Exemplar-Longest-Common-Subsequence">7</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Guillaume Fertin,
@@ -136,7 +154,7 @@ In the paper we investigate the computational and approximation complexity of th
 
 <tr valign="top">
 <td align="right">
-[<a name="IWBRA2005full">7</a>]
+[<a name="IWBRA2005full">8</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Lorenzo Mariani.
@@ -166,7 +184,7 @@ data is addressed.
 
 <tr valign="top">
 <td align="right">
-[<a name="ReconcilingGeneAndSpeciesTrees">8</a>]
+[<a name="ReconcilingGeneAndSpeciesTrees">9</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
@@ -183,7 +201,7 @@ The general problem of reconciling the information from evolutionary trees repre
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:International-Journal-of-Theoretical-Physics">9</a>]
+[<a name="journal:International-Journal-of-Theoretical-Physics">10</a>]
 </td>
 <td>
 Gianpiero Cattaneo, Gianluca Della&nbsp;Vedova, Alberto&nbsp;Ottavio Leporati, and
@@ -211,7 +229,7 @@ in the framework.
 
 <tr valign="top">
 <td align="right">
-[<a name="INFORMS:MSAasFacilityLocationProblem">10</a>]
+[<a name="INFORMS:MSAasFacilityLocationProblem">11</a>]
 </td>
 <td>
 Winfried Just and Gianluca Della&nbsp;Vedova.
@@ -229,7 +247,7 @@ This paper deals with the computational problem of inferring complete informatio
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:2003:A-Library-of-Efficient-Bioinformatics-Algorithms">11</a>]
+[<a name="journal:2003:A-Library-of-Efficient-Bioinformatics-Algorithms">12</a>]
 </td>
 <td>
 Gianluca Della&nbsp;Vedova and Riccardo Dondi.
@@ -243,7 +261,7 @@ Gianluca Della&nbsp;Vedova and Riccardo Dondi.
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:2003:The-Haplotyping-Problem:-An-Overview-of-Computational-Models-and-Solutions">12</a>]
+[<a name="journal:2003:The-Haplotyping-Problem:-An-Overview-of-Computational-Models-and-Solutions">13</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Jing Li.
@@ -282,7 +300,7 @@ discussed at the end of the paper.
 
 <tr valign="top">
 <td align="right">
-[<a name="LocalVertex">13</a>]
+[<a name="LocalVertex">14</a>]
 </td>
 <td>
 Gianluca Della&nbsp;Vedova and H.&nbsp;Todd Wareham.
@@ -298,7 +316,7 @@ Reconstructing evolutionary trees is an important problem in biology. A response
 
 <tr valign="top">
 <td align="right">
-[<a name="valinsky02:_analysis">14</a>]
+[<a name="valinsky02:_analysis">15</a>]
 </td>
 <td>
 Lea Valinsky, Gianluca Della&nbsp;Vedova, A.J. Scupham, S.&nbsp;Alvey, Andres Figueroa,
@@ -314,7 +332,7 @@ Lea Valinsky, Gianluca Della&nbsp;Vedova, A.J. Scupham, S.&nbsp;Alvey, Andres Fi
 
 <tr valign="top">
 <td align="right">
-[<a name="valinsky02:_oligon_finger_genes_analy_fungal_commun_compos">15</a>]
+[<a name="valinsky02:_oligon_finger_genes_analy_fungal_commun_compos">16</a>]
 </td>
 <td>
 Lea Valinsky, Gianluca Della&nbsp;Vedova, Tao Jiang, and James Borneman.
@@ -329,7 +347,7 @@ Lea Valinsky, Gianluca Della&nbsp;Vedova, Tao Jiang, and James Borneman.
 
 <tr valign="top">
 <td align="right">
-[<a name="experimentalLCS">16</a>]
+[<a name="experimentalLCS">17</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
@@ -347,7 +365,7 @@ In this paper, we give a new approximation algorithm for the longest common subs
 
 <tr valign="top">
 <td align="right">
-[<a name="ProbeSelectionForMicrobialCommunities">17</a>]
+[<a name="ProbeSelectionForMicrobialCommunities">18</a>]
 </td>
 <td>
 James Borneman, Marek Chrobak, Gianluca Della&nbsp;Vedova, Andres Figueroa, and Tao
@@ -366,7 +384,7 @@ We propose two efficient heuristics for minimizing the number of oligonucleotide
 
 <tr valign="top">
 <td align="right">
-[<a name="MSASPNPcomplete">18</a>]
+[<a name="MSASPNPcomplete">19</a>]
 </td>
 <td>
 Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
@@ -384,7 +402,7 @@ This paper analyzes the computational complexity of computing the optimal alignm
 
 <tr valign="top">
 <td align="right">
-[<a name="inapproximableMITjournal">19</a>]
+[<a name="inapproximableMITjournal">20</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
@@ -402,7 +420,7 @@ The Maximum Isomorphic Agreement Subtree (MIT) problem is one of the simplest ve
 
 <tr valign="top">
 <td align="right">
-[<a name="ModularDecompositionHypergraphs">20</a>]
+[<a name="ModularDecompositionHypergraphs">21</a>]
 </td>
 <td>
 Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
@@ -411,23 +429,6 @@ Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
 [&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/ModularDecompositionHypergraphs.pdf">.pdf</a>&nbsp;]
 <blockquote>
   We propose an <em>O</em>(<em>n</em><sup>4</sup>) algorithm to build the modular decomposition tree of hypergraphs of dimension 3 and show how this algorithm can be generalized to compute in <em>O</em>(<em>n</em><sup>3k -5</sup>) time the decomposition of hypergraphs of any fixed dimension <em>k</em>.
-</blockquote>
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right">
-[<a name="Anonymizing-Binary-and-Small-Tables-is-Hard-to-Approximate-journal">21</a>]
-</td>
-<td>
-Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
- Anonymizing binary and small tables is hard to approximate.
- <em>Journal of Combinatorial Optimization</em>, to appear.
-[&nbsp;<a href="http://arxiv.org/abs/arXiv:0707.0421">arXiv</a>&nbsp;]
-<blockquote>
-The problem of publishing personal data without giving up privacy is becoming increasingly important. An interesting formalization recently proposed is the <em>k</em>-anonymity. This approach requires that the rows in a table are clustered in sets of size at least <em>k</em> and that all the rows in a cluster become the same tuple, after the suppression of some records.  The natural optimization problem, where the goal is to minimize the number of suppressed entries, is known to be NP-hard when the values are over a ternary alphabet, <em>k</em>=3 and the rows length is unbounded. In this paper we give a lower bound on the approximation factor that any polynomial-time algorithm can achieve on  two restrictions of the problem, namely (i) when the records values are over a binary alphabet and <em>k</em>=3, and  (ii) when the records have length at most 8 and <em>k</em>=4, showing that these restrictions of the problem are APX-hard.
 </blockquote>
 
 </td>
@@ -585,24 +586,6 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Yuri Pirola.
  The <em>k</em>-anonymity problem is hard.
  In <em>Proceedings of the 17th International Symposium on
   Fundamentals of Computation Theory (FCT 2009)</em>, pages 26-37, 2009.
-[&nbsp;<a href="http://arxiv.org/abs/">arXiv</a>&nbsp;]
-<blockquote>
-The problem of publishing personal data without giving up privacy is becoming
-increasingly important. An interesting formalization recently proposed is the
-<em>k</em>-anonymity. This approach requires that
-the rows in a table are clustered in sets of size at least <em>k</em> and that
-all the rows in a cluster become the same tuple,
-after the suppression of some records.
-The natural optimization problem, where the goal is to minimize
-the number of suppressed entries, is known to be NP-hard when the
-values are over a ternary alphabet, <em>k</em>=3 and the rows length is
-unbounded. In this paper we give a lower bound on the
-approximation factor that any polynomial-time algorithm can
-achieve on  two restrictions of the problem, namely (i) when the
-records values are over a binary alphabet and <em>k</em>=3, and  (ii)
-when the records have length at most 8 and <em>k</em>=4, showing that
-these restrictions of the problem are APX-hard.
-</blockquote>
 
 </td>
 </tr>
