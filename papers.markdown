@@ -505,7 +505,27 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Yuri Pirola.
 
 <tr valign="top">
 <td align="right">
-[<a name="conference:Minimum-Factorization-Agreement-of-Spliced-ESTs">2</a>]
+[<a name="conference:PIntronICCABS">2</a>]
+</td>
+<td>
+Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Yuri Pirola, and Raffaella Rizzi.
+ Pintron: A fast method for gene structure prediction via maximal
+  pairings of a pattern and a text.
+ In <em>Computational Advances in Bio and Medical Sciences (ICCABS),
+  2011 IEEE 1st International Conference on</em>, pages 33 -39, feb. 2011.
+[&nbsp;<a href="http://dx.doi.org/10.1109/ICCABS.2011.5729935">DOI</a>&nbsp;| 
+<a href="http://arxiv.org/abs/arxiv:1005.1514">arXiv</a>&nbsp;]
+<blockquote>
+A challenging issue in designing computational methods for predicting the gene structure into exons and introns from a cluster of transcript (EST, mRNA) sequences, is guaranteeing both accuracy and efficiency in time and space, when large clusters of over than 20,000 ESTs and genes longer than 1Mb are processed. Traditionally, the problem has been faced by combining different tools, not specifically designed for this task. We propose a fast method based on ad hoc procedures for solving the problem. Our method combines two ideas: a novel algorithm of proved small time complexity for computing spliced alignments of a transcript against a genome, and an efficient algorithm that exploits the inherent redundancy of information in a cluster of transcripts to select, among all possible factorizations of EST sequences, those allowing to infer splice site junctions that are largely confirmed by the input data. The EST alignment procedure is based on the construction of maximal embeddings, that are sequences obtained from paths of a graph structure, called embedding graph, whose vertices are the maximal pairings of a genomic sequence T and an EST P. The procedure runs in time linear in the length of P and T and in the size of the output. PIntron, the software tool implementing our methodology, is available at http://www.algolab.eu/PIntron and it is able to process in a few seconds some critical genes that are not manageable by other gene structure prediction tools. At the same time, PIntron exhibits high accuracy (sensitivity and specificity) when compared with ENCODE data.
+</blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right">
+[<a name="conference:Minimum-Factorization-Agreement-of-Spliced-ESTs">3</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Yuri Pirola, and
@@ -547,7 +567,7 @@ libraries under various biological criteria.
 
 <tr valign="top">
 <td align="right">
-[<a name="conference:A-PTAS-for-the-Minimum-Consensus-Clustering-Problem-with-a-Fixed-Number-of-Clusters">3</a>]
+[<a name="conference:A-PTAS-for-the-Minimum-Consensus-Clustering-Problem-with-a-Fixed-Number-of-Clusters">4</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
@@ -575,7 +595,7 @@ polynomial time approximation scheme (PTAS).
 
 <tr valign="top">
 <td align="right">
-[<a name="conference:2010:The-k-anonymity-Problem-is-Hard">4</a>]
+[<a name="conference:2010:The-k-anonymity-Problem-is-Hard">5</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Yuri Pirola.
@@ -589,7 +609,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Yuri Pirola.
 
 <tr valign="top">
 <td align="right">
-[<a name="conference:Pure-Parsimony-Xor-Haplotyping">5</a>]
+[<a name="conference:Pure-Parsimony-Xor-Haplotyping">6</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Yuri Pirola, and Romeo
@@ -605,7 +625,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Yuri Pirola, and Ro
 
 <tr valign="top">
 <td align="right">
-[<a name="conference:2006:Fingerprint-Clustering-with-Bounded-Number-of-Missing-Values">6</a>]
+[<a name="conference:2006:Fingerprint-Clustering-with-Bounded-Number-of-Missing-Values">7</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca&nbsp;Della Vedova, Riccardo Dondi, and Giancarlo Mauri.
@@ -621,7 +641,7 @@ Paola Bonizzoni, Gianluca&nbsp;Della Vedova, Riccardo Dondi, and Giancarlo Mauri
 
 <tr valign="top">
 <td align="right">
-[<a name="IWBRA06">7</a>]
+[<a name="IWBRA06">8</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Guillaume Fertin, and
@@ -637,7 +657,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Guillaume Fertin, a
 
 <tr valign="top">
 <td align="right">
-[<a name="conference:A-PTAS-for-the-Maximum-Consensus-Clustering">8</a>]
+[<a name="conference:A-PTAS-for-the-Maximum-Consensus-Clustering">9</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Giancarlo Mauri.
@@ -652,7 +672,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Giancarlo Mauri
 
 <tr valign="top">
 <td align="right">
-[<a name="IWBRA2005">9</a>]
+[<a name="IWBRA2005">10</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Lorenzo Mariani.
@@ -667,7 +687,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Lorenzo Mariani
 
 <tr valign="top">
 <td align="right">
-[<a name="Isaac2005Clustering">10</a>]
+[<a name="Isaac2005Clustering">11</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Tao Jiang.
@@ -681,7 +701,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Tao Jiang.
 
 <tr valign="top">
 <td align="right">
-[<a name="pozzi04:_explic_upper_bound_approx_ratio">11</a>]
+[<a name="pozzi04:_explic_upper_bound_approx_ratio">12</a>]
 </td>
 <td>
 Sergio Pozzi, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
@@ -711,7 +731,7 @@ unless <b>RP</b>=<b>NP</b>.
 
 <tr valign="top">
 <td align="right">
-[<a name="ciac2003">12</a>]
+[<a name="ciac2003">13</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
@@ -726,7 +746,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
 
 <tr valign="top">
 <td align="right">
-[<a name="sac2002">13</a>]
+[<a name="sac2002">14</a>]
 </td>
 <td>
 Gianluca Della&nbsp;Vedova and H.&nbsp;Todd Wareham.
@@ -741,7 +761,7 @@ Gianluca Della&nbsp;Vedova and H.&nbsp;Todd Wareham.
 
 <tr valign="top">
 <td align="right">
-[<a name="soda2002">14</a>]
+[<a name="soda2002">15</a>]
 </td>
 <td>
 Gianluca Della&nbsp;Vedova, Tao Jiang, Jing Li, and Jianjun Wen.
@@ -756,7 +776,7 @@ Gianluca Della&nbsp;Vedova, Tao Jiang, Jing Li, and Jianjun Wen.
 
 <tr valign="top">
 <td align="right">
-[<a name="ProbeSelectionForMicrobialCommunities-ismb2001">15</a>]
+[<a name="ProbeSelectionForMicrobialCommunities-ismb2001">16</a>]
 </td>
 <td>
 James Borneman, Marek Chrobak, Gianluca Della&nbsp;Vedova, Andres Figueroa, and Tao
@@ -773,7 +793,7 @@ James Borneman, Marek Chrobak, Gianluca Della&nbsp;Vedova, Andres Figueroa, and 
 
 <tr valign="top">
 <td align="right">
-[<a name="phytopatology1">16</a>]
+[<a name="phytopatology1">17</a>]
 </td>
 <td>
 Lea Valinsky, A.J. Scupham, Gianluca Della&nbsp;Vedova, Marek Chrobak, Tao Jiang,
@@ -789,7 +809,7 @@ Lea Valinsky, A.J. Scupham, Gianluca Della&nbsp;Vedova, Marek Chrobak, Tao Jiang
 
 <tr valign="top">
 <td align="right">
-[<a name="sac2001">17</a>]
+[<a name="sac2001">18</a>]
 </td>
 <td>
 Paolo Barone, Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
@@ -813,7 +833,7 @@ with respect to the length of the approximate solution.
 
 <tr valign="top">
 <td align="right">
-[<a name="MSAasFacilityLocationProblem">18</a>]
+[<a name="MSAasFacilityLocationProblem">19</a>]
 </td>
 <td>
 Winfried Just and Gianluca Della&nbsp;Vedova.
@@ -827,7 +847,7 @@ Winfried Just and Gianluca Della&nbsp;Vedova.
 
 <tr valign="top">
 <td align="right">
-[<a name="cpm2000">19</a>]
+[<a name="cpm2000">20</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
@@ -842,7 +862,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
 
 <tr valign="top">
 <td align="right">
-[<a name="alex98">20</a>]
+[<a name="alex98">21</a>]
 </td>
 <td>
 Paola Bonizzoni, Massimo D'Alessandro, Gianluca Della&nbsp;Vedova, and Giancarlo
@@ -857,7 +877,7 @@ Paola Bonizzoni, Massimo D'Alessandro, Gianluca Della&nbsp;Vedova, and Giancarlo
 
 <tr valign="top">
 <td align="right">
-[<a name="conference:1995:Modular-Decomposition-of-Hypergraphs">21</a>]
+[<a name="conference:1995:Modular-Decomposition-of-Hypergraphs">22</a>]
 </td>
 <td>
 Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
