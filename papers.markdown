@@ -497,11 +497,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Yuri Pirola.
  Parameterized complexity of <em>k</em>-anonymity: Hardness and tractability.
  In <em>Proc. 21st International Workshop on Combinatorial Algorithms
   (IWOCA 2010)</em>, volume 6460 of <em>LNCS</em>, pages 242-255, 2011.
-[&nbsp;<a href="http://dx.doi.org/10.1007/978-3-642-19222-7_25">DOI</a>&nbsp;| 
-<a href="http://arxiv.org/abs/arXiv:0910.3148">arXiv</a>&nbsp;]
-<blockquote>
-The problem of publishing personal data without giving up privacy is becoming increasingly important. An interesting formalization that has been recently proposed is the k-anonymity. This approach requires that the rows of a table are partitioned in clusters of size at least k and that all the rows in a cluster become the same tuple, after the suppression of some entries. The natural optimization problem, where the goal is to minimize the number of suppressed entries, is known to be APX-hard even when the records values are over a binary alphabet and k=3, and when the records have length at most 8 and k=4. In this paper we study how the complexity of the problem is influenced by different parameters. In this paper we follow this direction of research, first showing that the problem is W[1]-hard when parameterized by the size of the solution (and the value k). Then we exhibit a fixed parameter algorithm, when the problem is parameterized by the size of the alphabet and the number of columns. Finally, we investigate the computational (and approximation) complexity of the k-anonymity problem, when restricting the instance to records having length bounded by 3 and k=3. We show that such a restriction is APX-hard.
-</blockquote>
+[&nbsp;<a href="http://dx.doi.org/10.1007/978-3-642-19222-7_25">DOI</a>&nbsp;]
 
 </td>
 </tr>
