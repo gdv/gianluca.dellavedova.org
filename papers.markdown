@@ -190,7 +190,7 @@ data is addressed.
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
  Reconciling gene trees to a species tree.
  <em>Theoretical Computer Science</em>, 347(1-2):36-53, 2005.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/ReconcilingGeneAndSpeciesTrees.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/ReconcilingGeneAndSpeciesTrees.pdf">.pdf</a>&nbsp;]
 <blockquote>
 The general problem of reconciling the information from evolutionary trees representing the relationships between distinct gene families is of great importance in Bioinformatics and has been popularized among the Computer Science researchers in (Ma, Li and Zhang, SIAM J. Comp. 2000) where the authors pose the intriguing question if a certain definition of minimum tree that reconciles a gene tree and a species tree is correct. We answer affirmatively to this question; moreover we show an efficient algorithm for computing such  minimum-leaf reconciliation trees and prove the uniqueness of such trees.  We then tackle some different versions of the biological problem by showing that the exemplar problem, arising from the exemplar analysis of multigene genomes, is NP-hard even when the number of copies of a given label is at most two.  Finally we introduce two novel formulations for the problem of recombining evolutionary trees, extending the gene duplication problem studied previously, and we give an exact algorithm (via dynamic programming) for one of these formulations.
 </blockquote>
@@ -236,7 +236,7 @@ Winfried Just and Gianluca Della&nbsp;Vedova.
  Multiple sequence alignment as a facility location problem.
  <em>INFORMS Journal on Computing</em>, 16(4):430-440, 2004.
 [&nbsp;<a href="http://dx.doi.org/10.1287/ijoc.1040.0093">DOI</a>&nbsp;| 
-<a href="http://gianluca.dellavedova.org/files/papers/MSAasFacilityLocationProblem.pdf">.pdf</a>&nbsp;]
+<a href="http://www.statistica.unimib.it/~dellavedova/papers/MSAasFacilityLocationProblem.pdf">.pdf</a>&nbsp;]
 <blockquote>
 This paper deals with the computational problem of inferring complete information on haplotypes from haplotypes with missing data. This problem is one of the main issues in <em>haplotyping</em>, as the current DNA sequencing technology often produces haplotypes with missing bases and thus the complete information on haplotypes has to be inferred through computational methods. In this paper we propose a new algorithmic approach to the problem that assumes both the Coalescent and the Minimum Entropy models and we provide an experimental analysis relating it to the previously investigated approaches. In particular, the reconstruction of a perfect phylogeny from haplotypes with missing data is addressed.
 </blockquote>
@@ -253,7 +253,7 @@ This paper deals with the computational problem of inferring complete informatio
 Gianluca Della&nbsp;Vedova and Riccardo Dondi.
  A library of efficient bioinformatics algorithms.
  <em>Applied Bioinformatics</em>, 2(2):117-121, 2003.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/ALiBio-applied-bioinformatics.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/ALiBio-applied-bioinformatics.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -270,7 +270,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Jing Li.
  <em>Journal of Computer Science and Technology</em>, 18(6):675-688,
   2003.
 [&nbsp;<a href="http://dx.doi.org/10.1007/BF02945456">DOI</a>&nbsp;| 
-<a href="http://gianluca.dellavedova.org/files/papers/ALiBio-applied-bioinformatics.pdf">.pdf</a>&nbsp;]
+<a href="http://www.statistica.unimib.it/~dellavedova/papers/ALiBio-applied-bioinformatics.pdf">.pdf</a>&nbsp;]
 <blockquote>
 The investigation of genetic differences among humans has given
 evidence that mutations in DNA sequences are responsible for some
@@ -379,7 +379,7 @@ James Borneman, Marek Chrobak, Gianluca Della&nbsp;Vedova, Andres Figueroa, and 
  Probe selection algorithms with applications in the analysis of
   microbial communities.
  <em>Bioinformatics</em>, 17(Suppl. 1):S39-S48, 2001.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/ProbeSelectionForMicrobialCommunities.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/ProbeSelectionForMicrobialCommunities.pdf">.pdf</a>&nbsp;]
 <blockquote>
 We propose two efficient heuristics for minimizing the number of oligonucleotide probes needed for analyzing populations of ribosomal RNA gene (rDNA) clones by hybridization experiments on DNA microarrays.  Such analyses have applications in the study of microbial communities. Unlike in the classical SBH (sequencing by hybridization) procedure, where multiple probes are on a DNA chip, in our applications we perform a series of experiments, each one consisting of applying a single probe to a DNA microarray containing a large sample of rDNA sequences from the studied population.  The overall cost of the analysis is thus roughly proportional to the number of experiments, underscoring the need for minimizing the number of probes. Our algorithms are based on two well-known optimization techniques, <i>i.e.</i> simulated annealing and Lagrangian relaxation, and our preliminary tests demonstrate that both algorithms are able to find satisfactory probe sets for real rDNA data.
 </blockquote>
@@ -397,7 +397,7 @@ Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
  The complexity of multiple sequence alignment with SP-score that is
   a metric.
  <em>Theoretical Computer Science</em>, 259(1):63-79, 2001.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/MSASPNP-complete.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/MSASPNP-complete.pdf">.pdf</a>&nbsp;]
 <blockquote>
 This paper analyzes the computational complexity of computing the optimal alignment of a set of sequences under the SP (sum of all pairs) score scheme.  We  solve an open question  by showing that  the problem is <em>NP</em>-complete in the very restricted case in which the sequences are over a binary alphabet  and the score is a metric.  This result establishes the intractability of multiple sequence alignment under a score function of  mathematical interest, which has indeed received much attention in biological sequence comparison.
 </blockquote>
@@ -415,7 +415,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
  Approximating the maximum isomorphic agreement subtree is hard.
  <em>International Journal on the Foundations of Computer Science</em>,
   11(4):579-590, 2000.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/inapproximableMITjournal.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/inapproximableMITjournal.pdf">.pdf</a>&nbsp;]
 <blockquote>
 The Maximum Isomorphic Agreement Subtree (MIT) problem is one of the simplest versions of the Maximum Interval Weight Agreement Subtree method (MIWT) which is used to compare phylogenies. More precisely MIT allows to provide a subset of the species such that the exact distances between species in such subset are preserved among all evolutionary trees considered.  In this paper, the approximation complexity of the MIT problem is investigated, showing that it  cannot be approximated in polynomial time within factor  log<sup>&delta;</sup><em>n</em> for any &delta;&gt;0  unless NP=DTIME(2<sup>polylog n</sup>) for instances containing three trees. Moreover, we show that such result can be strengthened whenever instances of the MIT problem can contain an arbitrary number of  trees, since MIT shares the same approximation lower bound of MAX CLIQUE.
 </blockquote>
@@ -432,7 +432,7 @@ The Maximum Isomorphic Agreement Subtree (MIT) problem is one of the simplest ve
 Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
  An algorithm to compute the modular decomposition of hypergraphs.
  <em>Journal of Algorithms</em>, 32(2):65-86, 1999.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/ModularDecompositionHypergraphs.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/ModularDecompositionHypergraphs.pdf">.pdf</a>&nbsp;]
 <blockquote>
   We propose an <em>O</em>(<em>n</em><sup>4</sup>) algorithm to build the modular decomposition tree of hypergraphs of dimension 3 and show how this algorithm can be generalized to compute in <em>O</em>(<em>n</em><sup>3k -5</sup>) time the decomposition of hypergraphs of any fixed dimension <em>k</em>.
 </blockquote>
@@ -582,7 +582,7 @@ Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
  In <em>Proceedings of the 11th Italian Conference on Theoretical
   Computer Science (ICTCS 2009)</em>, 2009.
 [&nbsp;<a href="http://arxiv.org/abs/arXiv:0907.1840">arXiv</a>&nbsp;| 
-<a href="http://gianluca.dellavedova.org/files/papers/ICTCS2009-talk.pdf">Slides</a>&nbsp;]
+<a href="http://www.statistica.unimib.it/~dellavedova/papers/ICTCS2009-talk.pdf">Slides</a>&nbsp;]
 <blockquote>
 The Consensus Clustering problem has been introduced as an effective
 way to analyze the results of different  microarray experiments.
@@ -759,7 +759,7 @@ Gianluca Della&nbsp;Vedova and H.&nbsp;Todd Wareham.
  Optimal algorithms for local vertex quartet cleaning.
  In <em>Proceedings of the 17th ACM Symposium on Applied Computing
   (SAC2002)</em>, pages 173-177, 2002.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/LocalVertex.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/LocalVertex.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -774,7 +774,7 @@ Gianluca Della&nbsp;Vedova, Tao Jiang, Jing Li, and Jianjun Wen.
  Approximating minimum quartet inconsistency.
  In <em>13th Annual ACM-SIAM Symposium on Discrete Algorithms
   (SODA2002)</em>, pages 894-895, 2002.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/soda2002.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/soda2002.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -791,7 +791,7 @@ James Borneman, Marek Chrobak, Gianluca Della&nbsp;Vedova, Andres Figueroa, and 
   microbial communities.
  In <em>Proceedings of the 9th International Conference on
   Intelligent Systems for Molecular Biology (ISMB2001)</em>, pages S39-S48, 2001.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/ismb2001_talk.pdf">Slides</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/ismb2001_talk.pdf">Slides</a>&nbsp;]
 
 </td>
 </tr>
@@ -823,7 +823,7 @@ Paolo Barone, Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
   experimental analysis.
  In <em>Proceedings of the 16th ACM Symposium on Applied Computing
   (SAC2001)</em>, pages 56-60, 2001.
-[&nbsp;<a href="http://gianluca.dellavedova.org/files/papers/sac2001.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="http://www.statistica.unimib.it/~dellavedova/papers/sac2001.pdf">.pdf</a>&nbsp;]
 <blockquote>
 In this paper an approximation algorithm, called Reduce-Expand,
 for the Shortest Common Supersequence (SCS) problem is presented
