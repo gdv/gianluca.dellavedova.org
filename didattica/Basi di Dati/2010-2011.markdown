@@ -90,9 +90,9 @@ Algebra relazionale: proiezione, restrizione,
      modifica dati in una tabella. Creazione di indici.
      Interrogazioni che coinvolgono una tabella. SELECT .. FROM .. WHERE.
 1.   Interrogazioni che coinvologono almeno due tabelle. HAVING.
-1.   Interrogazioni nidificate. Alias delle tabelle.
+1.   Interrogazioni nidificate. Alias delle tabelle. GROUP BY. ORDER BY. Operatori aggregati.
 1.   Definizione di vista e vista materializzata.
-     Creazione di viste. GROUP BY. ORDER BY. Operatori aggregati.
+     Creazione di viste.
 1.   Check. Funzioni scalari.
 1.   Trigger. Transazioni.
 1.   Sicurezza nelle basi di dati. Cenni di Data Warehouse.
