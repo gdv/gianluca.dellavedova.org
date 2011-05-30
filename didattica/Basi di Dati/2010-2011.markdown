@@ -92,7 +92,7 @@ Algebra relazionale: proiezione, restrizione,
 1.   Interrogazioni che coinvologono almeno due tabelle. HAVING.
 1.   Interrogazioni nidificate. Alias delle tabelle. GROUP BY. ORDER BY. Operatori aggregati.
 1.   Definizione di vista e vista materializzata.
-     Creazione di viste.
-1.   Check. Funzioni scalari.
-1.   Trigger. Transazioni.
+     Creazione di viste.  Check. Funzioni scalari.
+1.   Trigger.
+1.   Transazioni.
 1.   Sicurezza nelle basi di dati. Cenni di Data Warehouse.
