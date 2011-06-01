@@ -24,7 +24,6 @@ Si prevede che lo studente acquisisca l'abilità  di progettare e implementare 
 ###Orario###
 
 Di norma l'orario effettivo di lezione è Mer 10-13.
-Mercoledì 11/5 la lezione inizierà alle 10.40.
 
 ###Modalità  di esame###
 
@@ -71,4 +70,6 @@ Applicazioni degli alberi di suffisso: ricerca di stringhe contenute in altre st
 1. Allineamento locale e globale di 2 sequenze. Gap (definizioni)
 1. Algoritmi per gap generici, affini e convessi. Allineamento di k sequenze: Programmazione dinamica, algoritmo di Carrillo-Lipman.
 1. Espressioni regolari.
-1. Cenni di compressione LZ, Burrows-Wheeler (Bzip)
+[Regular Expression Matching Can Be Simple And Fast](http://swtch.com/~rsc/regexp/regexp1.html) [implementations](http://swtch.com/~rsc/regexp/).
+1. Cenni di compressione LZ, Burrows-Wheeler (Bzip). Argomenti tratti da "Data
+Compression" di Salomon.
