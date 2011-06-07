@@ -37,8 +37,13 @@ L'esame consiste in una prova scritta (dove viene verificata la capacità di pro
 ##Materiale didattico##
 
 Il libro di testo adottato è “Basi di dati, Modelli e Linguaggi di interrogazione”, Atzeni, Ceri, Paraboschi, Torlone, McGraw-Hill.
+Vengono trattati tutti gli argomenti del libro di testo, ad esclusione di:
+sezioni 3.2 (Calcolo relazionale), 3.3 (Datalog), 6.1 (Procedure), 6.3 (SQL
+Embedded), 6.4 (CLI), 7.4 (Modellazione dei dati in UML), 8.7 (Strumenti
+CASE), capitolo 10 (Progettazione fisica)
 
-Le parti relative a trigger e Data Warehouse si trovano nel libro Basi di dati: Architetture e linee di evoluzione, P. Atzeni, S. Ceri, P. Fraternali, S. Paraboschi, R. Torlone McGraw-Hill Italia.
+
+Le parti relative a trigger, transazioni e Data Warehouse si trovano nel libro Basi di dati: Architetture e linee di evoluzione, P. Atzeni, S. Ceri, P. Fraternali, S. Paraboschi, R. Torlone McGraw-Hill Italia.
 
 Sono reperibili le [soluzioni](http://www.statistica.unimib.it/~dellavedova/didattica/BasiDati/esercizi_progettazione.pdf)
 degli esercizi svolti i
