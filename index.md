@@ -4,8 +4,6 @@ layout: default
 title: Home
 wordpress_url: http://gianluca.dellavedova.org/?page_id=7
 ---
-MD
-MD
 
 I am an Associate Professor at the Department of Statistics, University of
 Milano-Bicocca. My research interests are in the field of algorithms and
