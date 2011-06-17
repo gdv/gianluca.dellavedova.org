@@ -22,5 +22,5 @@ L'attività formative sono in e-learning
 Varie informazioni relative alle modalità di esame, disponibilità di temi
 d'esami già svolti, modalità di accesso ai laboratori, sono disponibili sulla
 pagina dell'insegnamento
-[Laboratorio Statistico-Informatico](../Laboratorio Statistico-Informatico)
+[Laboratorio Statistico-Informatico](/didattica/Laboratorio%20Statistico-Informatico/)
 che è rivolto agli studenti delle lauree triennali.
