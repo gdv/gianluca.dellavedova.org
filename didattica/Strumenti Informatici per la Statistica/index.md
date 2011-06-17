@@ -1,4 +1,4 @@
---- 
+---
 
 layout: default
 title: Strumenti Informatici per la Statistica M
@@ -16,3 +16,11 @@ L'attività formative sono in e-learning
 
 [2009-2010](2009-2010.html)
 [2008-2009](2008-2009.html)
+
+## Informazioni generali
+
+Varie informazioni relative alle modalità di esame, disponibilità di temi
+d'esami già svolti, modalità di accesso ai laboratori, sono disponibili sulla
+pagina dell'insegnamento
+[Laboratorio Statistico-Informatico](../Laboratorio Statistico-Informatico)
+che è rivolto agli studenti delle lauree triennali.
