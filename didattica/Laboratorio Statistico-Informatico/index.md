@@ -1,4 +1,4 @@
---- 
+---
 
 layout: default
 title: Laboratorio Statistico-Informatico
@@ -31,6 +31,7 @@ Si tratta di risolvere un problema scrivendo un opportuno programma SAS  al calc
 
 ###Quando si registra il voto?###
 
+Normalmente pochi giorni dopo l'esame
 
 ###All'esame servono username e password?###
 
@@ -39,3 +40,9 @@ Al momento dell'esame dovete poter accedere ad una delle macchine. Chi  non freq
 ###Come faccio ad accedere ai laboratori dell'U9?###
 
 Per ottenere username e password di tutti i laboratori informatici di  Ateneo (inclusi quelli dell'U9), bisogna andare sulla pagina dello <a href="http://servizi.didattica.unimib.it/">SLDA</a> e seguire le istruzioni (sono nella parte sinistra della pagina).
+
+## Esami precedenti
+
+Aprile 2011:
+[Testo](https://docs.google.com/document/d/163VWUP0bzMJnTntnfJUTBDnv_4HF2kQvPg_M4tWpCqs/edit?hl=en_US)
+[Soluzione proposta](esami/2011-04.sas)
