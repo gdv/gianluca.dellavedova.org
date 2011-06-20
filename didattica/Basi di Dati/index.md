@@ -2,7 +2,7 @@
 layout: default
 title: Basi di Dati
 ---
-Il corso tratta le nozioni principali di basi di dati, ed in particolare la 
+Il corso tratta le nozioni principali di basi di dati, ed in particolare la
 tecnica di modellazione Entità-Relazione e il linguaggio SQL per definire ed interrogare le basi di dati.
 
 ##Edizione corrente##
@@ -17,6 +17,12 @@ In precedenza era: Programmazione e Basi Dati
 [2007-2008](2007-08.html)
 [2006-2007](2006-07.html)
 [2005-2006](2005-06.html)
+
+## Esami precedenti
+
+Giugno 2011:
+[Testo](https://docs.google.com/document/pub?id=1UxPMkTfKPeYugrYJOwn_EVz4Ps-FGp7EK_bdFiSumpY)
+
 
 ###Domande richieste più frequentemente###
 

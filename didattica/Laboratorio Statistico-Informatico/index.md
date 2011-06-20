@@ -44,5 +44,5 @@ Per ottenere username e password di tutti i laboratori informatici di  Ateneo (i
 ## Esami precedenti
 
 Aprile 2011:
-[Testo](https://docs.google.com/document/d/163VWUP0bzMJnTntnfJUTBDnv_4HF2kQvPg_M4tWpCqs/edit?hl=en_US)
+[Testo](https://docs.google.com/document/pub?id=163VWUP0bzMJnTntnfJUTBDnv_4HF2kQvPg_M4tWpCqs)
 [Soluzione proposta](esami/2011-04.sas)
