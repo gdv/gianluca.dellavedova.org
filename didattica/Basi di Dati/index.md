@@ -18,11 +18,6 @@ In precedenza era: Programmazione e Basi Dati
 [2006-2007](2006-07.html)
 [2005-2006](2005-06.html)
 
-## Esami precedenti
-
-Giugno 2011:
-[Testo](https://docs.google.com/document/pub?id=1UxPMkTfKPeYugrYJOwn_EVz4Ps-FGp7EK_bdFiSumpY)
-
 
 ###Domande richieste più frequentemente###
 
@@ -39,3 +34,8 @@ La data viene fissata il giorno della prova scritta, di solito è 2-3 giorni dop
 
 Al massimo per tre punti, ma normalmente permette di modificare di al massimo
 un punto il voto dello scritto.
+
+## Esami precedenti
+
+Giugno 2011:
+[Testo](https://docs.google.com/document/pub?id=1UxPMkTfKPeYugrYJOwn_EVz4Ps-FGp7EK_bdFiSumpY)
