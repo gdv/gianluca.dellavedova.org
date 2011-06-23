@@ -49,3 +49,4 @@ Aprile 2011:
 
 Giugno 2011:
 [Testo](https://docs.google.com/document/pub?id=1MXHX2a1xgqxcH9NhkoFA4erHz6CAZqbp2hIRpcRJkIE)
+[Risultati](https://spreadsheets.google.com/a/dellavedova.org/spreadsheet/pub?hl=en_US&hl=en_US&key=0AgdiUDJ4R_C7dHpxd0RBTnEtalkyYWpKSG91U1ZabkE&single=true&gid=1&output=html)
