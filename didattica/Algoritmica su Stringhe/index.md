@@ -1,4 +1,4 @@
---- 
+---
 
 layout: default
 title: Algoritmica su stringhe
@@ -18,4 +18,7 @@ Il corso è principalmente focalizzato sul disegni di algoritmi, oltre che sull'
 [2009-2010](2009-10.html)
 [2008-2009](2008-09.html)
 
-Domande_frequenti
+##Informazioni generali##
+
+Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
+[avvisi](http://identi.ca/gianlucadellavedova/rss).

@@ -19,23 +19,11 @@ In precedenza era: Programmazione e Basi Dati
 [2005-2006](2005-06.html)
 
 
-###Domande richieste più frequentemente###
+##Informazioni generali##
 
+Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
+[avvisi](http://identi.ca/gianlucadellavedova/rss).
 
-####Come si svolge la prova d'esame?####
-
-L'esame consiste in una prova scritta dove viene richiesto di progettare un database e di scrivere alcune query in SQL per l'interrogazione del data base progettato. La prova scritta dura due ore e NON è possibile utilizzare libri, dispense e appunti vari.
-
-####Quando si tiene l'orale?####
-
-La data viene fissata il giorno della prova scritta, di solito è 2-3 giorni dopo lo scritto.
-
-####Quanto l'orale influisce sul voto?####
-
-Al massimo per tre punti (sia aggiunti che sottratti al voto dello scritto),
-ma normalmente la variazione massima è di un punto.
-
-## Esami precedenti
-
-Giugno 2011:
-[Testo](https://docs.google.com/document/pub?id=1UxPMkTfKPeYugrYJOwn_EVz4Ps-FGp7EK_bdFiSumpY)
+Varie informazioni relative alle modalità di esame, disponibilità di temi
+d'esami già svolti ed altro  sono disponibili
+seguendo il [link](https://sites.google.com/a/dellavedova.org/esami/basi-di-dati---esami-precedenti).
