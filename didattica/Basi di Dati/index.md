@@ -32,8 +32,8 @@ La data viene fissata il giorno della prova scritta, di solito è 2-3 giorni dop
 
 ####Quanto l'orale influisce sul voto?####
 
-Al massimo per tre punti, ma normalmente permette di modificare di al massimo
-un punto il voto dello scritto.
+Al massimo per tre punti (sia aggiunti che sottratti al voto dello scritto),
+ma normalmente la variazione massima è di un punto.
 
 ## Esami precedenti
 
