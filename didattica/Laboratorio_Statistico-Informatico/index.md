@@ -4,6 +4,8 @@ layout: default
 title: Laboratorio Statistico-Informatico
 
 ---
+## Laboratorio Statistico-Informatico
+
 Nel corso verranno mostrate le basi di SAS.
 
 ##Edizione corrente:##

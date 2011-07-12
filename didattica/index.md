@@ -1,8 +1,6 @@
 ---
-wordpress_id: 163
 layout: default
 title: Didattica
-wordpress_url: http://gianluca.dellavedova.org/didattica-2/
 ---
 <h2>Insegnamenti - Moduli</h2>
 <ul>
