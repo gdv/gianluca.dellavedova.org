@@ -2,6 +2,8 @@
 layout: default
 title: Basi di Dati
 ---
+## Basi di Dati
+
 Il corso tratta le nozioni principali di basi di dati, ed in particolare la
 tecnica di modellazione Entità-Relazione e il linguaggio SQL per definire ed interrogare le basi di dati.
 

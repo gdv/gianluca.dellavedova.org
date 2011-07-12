@@ -4,7 +4,7 @@ layout: default
 title: Strumenti Informatici per la Statistica M
 
 ---
-# Strumenti Informatici per la Statistica M
+## Strumenti Informatici per la Statistica M
 
 Verranno presentate le basi di SAS
 

@@ -4,6 +4,7 @@ layout: default
 title: Algoritmica su stringhe
 
 ---
+## Algoritmica su stringhe
 
 Nel corso verranno presentati alcuni dei principali algoritmi che operano su testi.
 
