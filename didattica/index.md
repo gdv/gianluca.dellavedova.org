@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 163
 layout: default
 title: Didattica
@@ -17,3 +17,6 @@ wordpress_url: http://gianluca.dellavedova.org/didattica-2/
 Il ricevimento studenti è ogni Martedì, 14.00-15.00.
 
 In alternativa è sempre possibile contattarmi per email.
+
+<h2>
+Tutti gli studenti sono fortemente invitati ad abbonarsi al feed <a href="http://identi.ca/gianlucadellavedova/rss">rss</a> degli avvisi.
