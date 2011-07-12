@@ -16,5 +16,4 @@ Il ricevimento studenti è ogni Martedì, 14.00-15.00.
 
 In alternativa è sempre possibile contattarmi per email.
 
-
-Tutti gli studenti sono fortemente invitati ad abbonarsi al feed [rss](http://identi.ca/gianlucadellavedova/rss) degli avvisi.
+Tutti gli studenti sono fortemente invitati ad abbonarsi al feed [rss]"http://identi.ca/gianlucadellavedova/rss">rss</a> degli avvisi.
