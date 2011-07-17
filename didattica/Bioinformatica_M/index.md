@@ -1,9 +1,11 @@
---- 
+---
 
 layout: default
 title: Bioinformatica M
 
 ---
+## Bioinformatica M
+
 Verranno mostrate alcune delle principali tecniche algoritmiche applicate ad alcuni fondamentali problemi in biologica, ed in particolare in genetica.
 
 L'enfasi è posta su algoritmi combinatori e sull'analisi teorica degli algoritmi e dei problemi.
