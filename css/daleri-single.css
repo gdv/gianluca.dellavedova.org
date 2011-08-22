@@ -1,0 +1,47 @@
+/*
+Original design: Daleri Single (v1.0 - June 01, 2010) - A free xhtml/css website template by Andreas Viklund.
+For more information, see http://andreasviklund.com/templates/daleri-single/
+*/
+
+/* Main containers */
+/* body {padding:0; margin:0; font:76% verdana,tahoma,sans-serif; background:#1a1a1a top center no-repeat; color:#444; border-top:4px solid #444; text-align:center; line-height:1.5em;}
+*/
+body {color:#404040; font:100% Verdana,Tahoma,Arial,sans-serif; line-height:1.3em; margin:0 auto; padding:0;}
+
+
+#wrap {color:#404040; width:97%; max-width:1400px; text-align:center; margin:0 auto;}
+#maincontent {text-align:left; border:2px solid #ddd; padding:15px 15px 5px 15px; margin:0 0 15px 0;}
+
+/* HTML Tags */
+a {color:#4088b8; font-weight:700; text-decoration:none;}
+a:hover {text-decoration:underline;}
+a img {border:0;}
+p {margin:0 0 15px 0;}
+
+
+
+h1 {margin:15px auto 10px auto; padding:0; color:#4088b8; font-size:3em; line-height:0.8em; letter-spacing:-2px; }
+h1 a {font-weight:700; text-decoration:none;}
+h1 a:hover {color:#fff; background-color:#4088b8; text-decoration:none;}
+h2 {margin:0 0 12px 0; padding:16px 6px 16px 6px; top center no-repeat;  color:#ddd; font-size:1.5em; font-weight:400;}
+h2 {border-bottom:2px solid #dadada; color:#4088b8; font-size:1.4em; letter-spacing:-1px; padding:0 2px 2px 5px;}
+h2 a {font-weight:400;}
+h3 {font-size:1.4em; font-weight:400; margin:0 0 10px 0;}
+h3 {border-bottom:1px solid #dadada; color:#4088b8; font-size:1.2em; font-weight:700; margin:10px 0 8px; padding:1px 2px 2px 3px;}
+ul {margin:0 0 15px 20px; padding:0;}
+li {margin:0; padding:0 0 0 5px;}
+
+
+/* Various classes */
+.slogan {color:#404040; font-size:1.4em; margin:0 0 15px 0; padding:0;}
+.toptabs {clear:both; font-size:1.4em; line-height:1.5em; color:#aaa; margin:0 0 15px 0;}
+.toptab {padding:3px 10px 5px 10px; font-weight:400; margin:0 2px; color:#4088b8;}
+.toptab:hover {color:#fff; background-color:#4088b8; text-decoration:none;}
+
+.toptabs2 {clear:both; font-size:1em; line-height:1.1em; color:#aaa; margin:0 0 15px 0;}
+.toptab2 {font-size:1em; line-height:1em; padding:3px 10px 5px 10px; font-weight:400; margin:0 2px; color:#4088b8;}
+.toptab2:hover {color:#fff; background-color:#4088b8; text-decoration:none;}
+.active {background-color:#444; color:#fff;}
+.active:hover {background-color:#444; color:#fff;}
+.footer, .footer a{color:#888; font-weight:400;}
+.hide {display:none;}
