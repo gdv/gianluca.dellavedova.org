@@ -38,8 +38,8 @@ li {margin:0; padding:0 0 0 5px;}
 .toptab {padding:3px 10px 5px 10px; font-weight:400; margin:0 2px; color:#4088b8;}
 .toptab:hover {color:#fff; background-color:#4088b8; text-decoration:none;}
 
-.toptabs2 {clear:both; font-size:1em; line-height:1.4em; color:#aaa; margin:0 0 15px 0;}
-.toptab2 {font-size:1em; line-height:1.3em; padding:3px 10px 5px 10px; font-weight:400; margin:0 2px; color:#4088b8;}
+.toptabs2 {clear:both; font-size:0.9em; line-height:1.4em; color:#aaa; margin:0 0 15px 0;}
+.toptab2 {font-size:0.9em; line-height:1.3em; padding:3px 10px 5px 10px; font-weight:400; margin:0 2px; color:#4088b8;}
 .toptab2:hover {color:#fff; background-color:#4088b8; text-decoration:none;}
 .footer, .footer a{color:#888; font-weight:400;}
 .hide {display:none;}
