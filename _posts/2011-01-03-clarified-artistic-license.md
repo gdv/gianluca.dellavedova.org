@@ -2,7 +2,7 @@
 layout: post
 title: Clarified Artistic License
 date: 2011-01-03 12:25:07 +01:00
-tag: free-licenses, free-software
+tag: free-licenses; free-software
 ---
 
 ## Clarified Artistic License
