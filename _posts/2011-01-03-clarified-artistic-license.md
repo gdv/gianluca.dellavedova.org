@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: Clarified Artistic License
 date: 2011-01-03 12:25:07 +01:00
+tag: free-licenses, free-software
 ---
 
 ## Clarified Artistic License
@@ -25,30 +26,30 @@ The intent of this document is to state the conditions under which a Package may
 "Distribution fee" <dfn>is a fee you charge for providing a copy of this Package to another party.</dfn>
 "Freely Available" <dfn>means that no fee is charged for the right to use the item, though there may be fees involved in handling the item. It also means that recipients of the item may redistribute it under the same conditions they received it.</dfn>
 <ol>
-	<li>You may make and give away verbatim copies of the source form of the Standard Version of this Package without restriction, provided that you duplicate all of the original copyright notices and associated disclaimers.</li>
-	<li>You may apply bug fixes, portability fixes and other modifications derived from the Public Domain, or those made Freely Available, or from the Copyright Holder. A Package modified in such a way shall still be considered the Standard Version.</li>
-	<li>You may otherwise modify your copy of this Package in any way, provided that you insert a prominent notice in each changed file stating how and when you changed that file, and provided that you do at least ONE of the following:
+        <li>You may make and give away verbatim copies of the source form of the Standard Version of this Package without restriction, provided that you duplicate all of the original copyright notices and associated disclaimers.</li>
+        <li>You may apply bug fixes, portability fixes and other modifications derived from the Public Domain, or those made Freely Available, or from the Copyright Holder. A Package modified in such a way shall still be considered the Standard Version.</li>
+        <li>You may otherwise modify your copy of this Package in any way, provided that you insert a prominent notice in each changed file stating how and when you changed that file, and provided that you do at least ONE of the following:
 <ol>
-	<li>place your modifications in the Public Domain or otherwise make them Freely Available, such as by posting said modifications to Usenet or an equivalent medium, or placing the modifications on a major network archive site allowing unrestricted access to them, or by allowing the Copyright Holder to include your modifications in the Standard Version of the Package.</li>
-	<li>use the modified Package only within your corporation or organization.</li>
-	<li>rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.</li>
-	<li>make other distribution arrangements with the Copyright Holder.</li>
-	<li>permit and encourge anyone who receives a copy of the modified Package permission to make your modifications Freely Available in some specific way.</li>
+        <li>place your modifications in the Public Domain or otherwise make them Freely Available, such as by posting said modifications to Usenet or an equivalent medium, or placing the modifications on a major network archive site allowing unrestricted access to them, or by allowing the Copyright Holder to include your modifications in the Standard Version of the Package.</li>
+        <li>use the modified Package only within your corporation or organization.</li>
+        <li>rename any non-standard executables so the names do not conflict with standard executables, which must also be provided, and provide a separate manual page for each non-standard executable that clearly documents how it differs from the Standard Version.</li>
+        <li>make other distribution arrangements with the Copyright Holder.</li>
+        <li>permit and encourge anyone who receives a copy of the modified Package permission to make your modifications Freely Available in some specific way.</li>
 </ol>
 </li>
-	<li>You may distribute the programs of this Package in object code or executable form, provided that you do at least ONE of the following:
+        <li>You may distribute the programs of this Package in object code or executable form, provided that you do at least ONE of the following:
 <ol>
-	<li>distribute a Standard Version of the executables and library files, together with instructions (in the manual page or equivalent) on where to get the Standard Version.</li>
-	<li>accompany the distribution with the machine-readable source of the Package with your modifications.</li>
-	<li>give non-standard executables non-standard names, and clearly document the differences in manual pages (or equivalent), together with instructions on where to get the Standard Version.</li>
-	<li>make other distribution arrangements with the Copyright Holder.</li>
-	<li>offer the machine-readable source of the Package, with your modifications, by mail order.</li>
+        <li>distribute a Standard Version of the executables and library files, together with instructions (in the manual page or equivalent) on where to get the Standard Version.</li>
+        <li>accompany the distribution with the machine-readable source of the Package with your modifications.</li>
+        <li>give non-standard executables non-standard names, and clearly document the differences in manual pages (or equivalent), together with instructions on where to get the Standard Version.</li>
+        <li>make other distribution arrangements with the Copyright Holder.</li>
+        <li>offer the machine-readable source of the Package, with your modifications, by mail order.</li>
 </ol>
 </li>
-	<li>You may charge a distribution fee for any distribution of this Package. If you offer support for this Package, you may charge any fee you choose for that support. You may not charge a license fee for the right to use this Package itself. You may distribute this Package in aggregate with other (possibly commercial and possibly nonfree) programs as part of a larger (possibly commercial and possibly nonfree) software distribution, and charge license fees for other parts of that software distribution, provided that you do not advertise this Package as a product of your own. If the Package includes an interpreter, You may embed this Package's interpreter within an executable of yours (by linking); this shall be construed as a mere form of aggregation, provided that the complete Standard Version of the interpreter is so embedded.</li>
-	<li>The scripts and library files supplied as input to or produced as output from the programs of this Package do not automatically fall under the copyright of this Package, but belong to whoever generated them, and may be sold commercially, and may be aggregated with this Package. If such scripts or library files are aggregated with this Package via the so-called "undump" or "unexec" methods of producing a binary executable image, then distribution of such an image shall neither be construed as a distribution of this Package nor shall it fall under the restrictions of Paragraphs 3 and 4, provided that you do not represent such an executable image as a Standard Version of this Package.</li>
-	<li>C subroutines (or comparably compiled subroutines in other languages) supplied by you and linked into this Package in order to emulate subroutines and variables of the language defined by this Package shall not be considered part of this Package, but are the equivalent of input as in Paragraph 6, provided these subroutines do not change the language in any way that would cause it to fail the regression tests for the language.</li>
-	<li>Aggregation of the Standard Version of the Package with a commercial distribution is always permitted provided that the use of this Package is embedded; that is, when no overt attempt is made to make this Package's interfaces visible to the end user of the commercial distribution. Such use shall not be construed as a distribution of this Package.</li>
-	<li>The name of the Copyright Holder may not be used to endorse or promote products derived from this software without specific prior written permission.</li>
-	<li>THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A  PARTICULAR PURPOSE.</li>
+        <li>You may charge a distribution fee for any distribution of this Package. If you offer support for this Package, you may charge any fee you choose for that support. You may not charge a license fee for the right to use this Package itself. You may distribute this Package in aggregate with other (possibly commercial and possibly nonfree) programs as part of a larger (possibly commercial and possibly nonfree) software distribution, and charge license fees for other parts of that software distribution, provided that you do not advertise this Package as a product of your own. If the Package includes an interpreter, You may embed this Package's interpreter within an executable of yours (by linking); this shall be construed as a mere form of aggregation, provided that the complete Standard Version of the interpreter is so embedded.</li>
+        <li>The scripts and library files supplied as input to or produced as output from the programs of this Package do not automatically fall under the copyright of this Package, but belong to whoever generated them, and may be sold commercially, and may be aggregated with this Package. If such scripts or library files are aggregated with this Package via the so-called "undump" or "unexec" methods of producing a binary executable image, then distribution of such an image shall neither be construed as a distribution of this Package nor shall it fall under the restrictions of Paragraphs 3 and 4, provided that you do not represent such an executable image as a Standard Version of this Package.</li>
+        <li>C subroutines (or comparably compiled subroutines in other languages) supplied by you and linked into this Package in order to emulate subroutines and variables of the language defined by this Package shall not be considered part of this Package, but are the equivalent of input as in Paragraph 6, provided these subroutines do not change the language in any way that would cause it to fail the regression tests for the language.</li>
+        <li>Aggregation of the Standard Version of the Package with a commercial distribution is always permitted provided that the use of this Package is embedded; that is, when no overt attempt is made to make this Package's interfaces visible to the end user of the commercial distribution. Such use shall not be construed as a distribution of this Package.</li>
+        <li>The name of the Copyright Holder may not be used to endorse or promote products derived from this software without specific prior written permission.</li>
+        <li>THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A  PARTICULAR PURPOSE.</li>
 </ol>
