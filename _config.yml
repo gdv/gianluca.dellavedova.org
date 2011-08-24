@@ -1,5 +1,5 @@
 auto : false
 lsi : false
 pygments : true
-markdown : maruku
+markdown : rdiscount
 permalink: /:title
