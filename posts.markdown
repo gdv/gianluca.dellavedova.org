@@ -3,11 +3,10 @@ layout: default
 title: Archive
 ---
 
-<h2>Archive</h2>
+## Archive
 
-<ul>
 {% for post in site.posts %}
-<li><span>{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}">{{ post.title }}</a></li>
+*     {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 {% endfor %}
-</ul>
 
+{% tag_cloud %}
