@@ -9,4 +9,6 @@ title: Archive
 *     {{ post.date | date_to_string `}}  [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
+## Tags
+
 {% tag_cloud %}
