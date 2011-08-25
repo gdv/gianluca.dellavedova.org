@@ -8,7 +8,7 @@ title: Endorsements
 *   [FSFE](http://fsfe.org/donate/): Free Software Foundation Europe.
 *   [PlayOgg](http://playogg.org): Don't use DRM files
 *   [Wikipedia](http://wikimediafoundation.org/wiki/Donate/it)
-*   [Not f'd](http://www.fsf.org/fb) -- you won't find me on Facebook
+*   [FB] [Not f'd](http://www.fsf.org/fb) -- you won't find me on Facebook
 *   [Open Document Format](http://www.fsf.org/campaigns/opendocument)
 *   [Debian](http://debian.org)
 *   [Ubuntu](http://ubuntu.com)
@@ -16,6 +16,9 @@ title: Endorsements
 *   No software patents. A program is a way to express algorithms, which are
     not patentable by the Bern convention. Then why should you want to patent
     a program?
+
+
+[FB]: http://static.fsf.org/nosvn/no-facebook-me.png
 
 ## Thanks to:
 
