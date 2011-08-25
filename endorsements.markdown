@@ -8,7 +8,7 @@ title: Endorsements
 *   [FSFE](http://fsfe.org/donate/): Free Software Foundation Europe.
 *   [PlayOgg](http://playogg.org): Don't use DRM files
 *   [Wikipedia](http://wikimediafoundation.org/wiki/Donate/it)
-*   [FB] [Not f'd](http://www.fsf.org/fb) -- you won't find me on Facebook
+*   ![Not f'd](http://static.fsf.org/nosvn/no-facebook-me.png)  [Not f'd - you won't find me on Facebook](http://www.fsf.org/fb)
 *   [Open Document Format](http://www.fsf.org/campaigns/opendocument)
 *   [Debian](http://debian.org)
 *   [Ubuntu](http://ubuntu.com)
@@ -17,8 +17,6 @@ title: Endorsements
     not patentable by the Bern convention. Then why should you want to patent
     a program?
 
-
-[FB]: http://static.fsf.org/nosvn/no-facebook-me.png
 
 ## Thanks to:
 
