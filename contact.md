@@ -4,10 +4,10 @@
 ---
 
 
-Dipartimento di Statistica  
-Università. degli Studi di Milano-Bicocca  
-Edificio U7, via Bicocca degli Arcimboldi 8  
-20126 - Milano (Italy)  
+Dipartimento di Statistica     
+Università degli Studi di Milano-Bicocca    
+Edificio U7, via Bicocca degli Arcimboldi 8     
+20126 - Milano (Italy)    
 
 
 Office/Stanza: U7-2069,  
