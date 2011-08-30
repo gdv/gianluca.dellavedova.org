@@ -16,4 +16,10 @@ Fax: No, please.
 
 
 email: [gianluca@dellavedova.org](mailto://gianluca@dellavedova.org)  
-Unless [Unavoidable](http://www.fsf.org/philosophy/no-word-attachments.html), no Word, Excel or PowerPoint attachments
+Unless [Unavoidable](http://www.fsf.org/philosophy/no-word-attachments.html),
+no Word, Excel or PowerPoint attachments
+
+{% ostatus %}
+
+    {% tag_cloud %}
+
