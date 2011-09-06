@@ -29,7 +29,8 @@ Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
 
 <IFRAME
 SRC="https://sites.google.com/a/dellavedova.org/esami/laboratorio-statistico-informatico"
-width=100% height=100%>
+FRAMEBORDER=0 
+width=100% height=100% >
 <!-- Alternate content for non-supporting browsers -->
 Varie informazioni relative alle modalità di esame, disponibilità di temi
 d'esami già svolti, modalità di accesso ai laboratori, sono disponibili sulla
