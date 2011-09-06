@@ -18,4 +18,9 @@ Il ricevimento studenti è ogni Lunedì, 10.00-11.00.
 
 In alternativa è sempre possibile contattarmi per email.
 
-Tutti gli studenti sono fortemente invitati ad abbonarsi al [feed rss](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default) degli avvisi.
+## Avvisi [rss](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default).
+
+<script src="http://feeds.feedburner.com/AvvisiDidattica?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/AvvisiDidattica"></a><br/>Powered by FeedBurner</p> </noscript>
+
+
+

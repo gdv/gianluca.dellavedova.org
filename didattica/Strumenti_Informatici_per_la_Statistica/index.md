@@ -31,4 +31,3 @@ pagina dell'insegnamento
 [Laboratorio Statistico-Informatico](https://sites.google.com/a/dellavedova.org/esami/laboratorio-statistico-informatico)
 che è rivolto agli studenti delle lauree triennali.
 
-<script src="http://feeds.feedburner.com/AvvisiDidattica?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/AvvisiDidattica"></a><br/>Powered by FeedBurner</p> </noscript>
