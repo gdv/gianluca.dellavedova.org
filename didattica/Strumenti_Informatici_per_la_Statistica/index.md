@@ -25,17 +25,9 @@ L'attività formative sono in e-learning
 Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
 [avvisi](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default).
 
-## Avvisi
-
-<IFRAME
-SRC="https://sites.google.com/a/dellavedova.org/esami/laboratorio-statistico-informatico"
-FRAMEBORDER=0 
-width=100% height=100% >
-<!-- Alternate content for non-supporting browsers -->
 Varie informazioni relative alle modalità di esame, disponibilità di temi
 d'esami già svolti, modalità di accesso ai laboratori, sono disponibili sulla
 pagina dell'insegnamento
 [Laboratorio Statistico-Informatico](https://sites.google.com/a/dellavedova.org/esami/laboratorio-statistico-informatico)
 che è rivolto agli studenti delle lauree triennali.
-</IFRAME>
 
