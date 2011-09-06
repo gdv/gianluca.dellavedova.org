@@ -27,7 +27,7 @@ Nel corso verranno mostrate le basi di SAS.
 ##Informazioni generali##
 
 Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
-[avvisi](http://identi.ca/gianlucadellavedova/rss).
+[avvisi](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default).
 
 Varie informazioni relative alle modalità di esame, disponibilità di temi
 d'esami già svolti, modalità di accesso ai laboratori, sono disponibili

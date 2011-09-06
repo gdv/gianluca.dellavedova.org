@@ -22,4 +22,4 @@ Il corso è principalmente focalizzato sul disegni di algoritmi, oltre che sull'
 ##Informazioni generali##
 
 Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
-[avvisi](http://identi.ca/gianlucadellavedova/rss).
+[avvisi](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default).
