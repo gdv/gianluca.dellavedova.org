@@ -14,8 +14,8 @@ title: Didattica
 
 ## Orario di ricevimento
 
-Il ricevimento studenti è ogni Martedì, 14.00-15.00.
+Il ricevimento studenti è ogni Lunedì, 10.00-11.00.
 
 In alternativa è sempre possibile contattarmi per email.
 
-Tutti gli studenti sono fortemente invitati ad abbonarsi al [feed rss](http://identi.ca/gianlucadellavedova/rss) degli avvisi.
+Tutti gli studenti sono fortemente invitati ad abbonarsi al [feed rss](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default) degli avvisi.
