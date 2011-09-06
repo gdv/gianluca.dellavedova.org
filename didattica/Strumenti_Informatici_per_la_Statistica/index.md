@@ -25,6 +25,7 @@ L'attività formative sono in e-learning
 Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
 [avvisi](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default).
 
+## Avvisi
 
 <IFRAME
 SRC="https://sites.google.com/a/dellavedova.org/esami/laboratorio-statistico-informatico"
