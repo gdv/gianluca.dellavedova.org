@@ -10,10 +10,11 @@ Nel corso verranno mostrate le basi di SAS.
 
 ##Edizione corrente:##
 
-[2010-2011](2010-2011.html)
+[2011-2012](2011-2012.html)
 
 ##Edizione passate:##
 
+[2010-2011](2010-2011.html)
 [2009-2010](2009-2010.html)
 [2008-2009](2008-2009.html)
 [2007-2008](2007-2008.html)

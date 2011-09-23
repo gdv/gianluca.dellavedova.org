@@ -12,10 +12,11 @@ Il corso è principalmente focalizzato sul disegni di algoritmi, oltre che sull'
 
 ##Edizione corrente##
 
-[2010-2011](2010-11.html)
+[2011-2012](2011-12.html)
 
 ##Edizioni passate##
 
+[2010-2011](2010-11.html)
 [2009-2010](2009-10.html)
 [2008-2009](2008-09.html)
 

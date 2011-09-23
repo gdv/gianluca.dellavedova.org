@@ -9,10 +9,11 @@ tecnica di modellazione Entità-Relazione e il linguaggio SQL per definire ed in
 
 ##Edizione corrente##
 
-[2010-2011](2010-2011.html)
+[2011-2012](2011-2012.html)
 
 ##Edizioni passate##
 
+[2010-2011](2010-2011.html)
 [2009-2010](2009-2010.html)
 In precedenza era: Programmazione e Basi Dati
 [2008-2009](2008-09.html)

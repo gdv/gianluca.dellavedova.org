@@ -9,7 +9,8 @@ title: Didattica
 *    [Bioinformatica M](Bioinformatica_M)
 *    [Laboratorio Statistico-Informatico](Laboratorio_Statistico-Informatico)
 *    [Strumenti Informatici per la Statistica M](Strumenti_Informatici_per_la_Statistica) (e-learning)
-*    [Fondamenti di Informatica](Fondamenti_di_Informatica) (Master ASIDI)
+
+Insegnamenti [non più attivi](non-attivi.html)
 
 
 ## Orario di ricevimento
