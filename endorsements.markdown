@@ -16,7 +16,7 @@ title: Endorsements
 *   No software patents. A program is a way to express algorithms, which are
     not patentable by the Bern convention. Then why should you want to patent
     a program?
-*   [Email Charter](http://emailcharter.org/) We're drowning in email.We can reverse this spiral only by mutual agreement.
+*   [Email Charter](http://emailcharter.org/) We're drowning in email. We can reverse this spiral only by mutual agreement.
 
 ## Thanks to:
 
