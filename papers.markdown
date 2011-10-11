@@ -40,7 +40,26 @@ The problem of publishing personal data without giving up privacy is becoming in
 
 <tr valign="top">
 <td align="right">
-[<a name="bonizzoni10:_approx_clust_finger_vector_missin_values">2</a>]
+[<a name="journal:ProbeSelection2">2</a>]
+</td>
+<td>
+Paul Ruegger, Gianluca Della&nbsp;Vedova, Tao Jiang, and James Borneman.
+ Improving probe set selection for microbial community analysis by
+  leveraging taxonomic information of training sequences.
+ <em>BMC Bioinformatics</em>, 12(1):394, 2011.
+[&nbsp;<a href="http://dx.doi.org/10.1186/1471-2105-12-394">DOI</a>&nbsp;| 
+<a href="http://www.biomedcentral.com/1471-2105/12/394">http</a>&nbsp;]
+<blockquote>
+BACKGROUND:Population levels of microbial phylotypes can be examined using a hybridization-based method that utilizes a small set of computationally-designed DNA probes targeted to a gene common to all.  Our previous algorithm attempts to select a set of probes such that each training sequence manifests a unique theoretical hybridization pattern (a binary fingerprint) to a probe set.  It does so without taking into account similarity between training gene sequences or their putative taxonomic classifications, however.  We present an improved algorithm for probe set selection that utilizes the available taxonomic information of training gene sequences and attempts to choose probes such that the resultant binary fingerprints cluster into real taxonomic groups.RESULTS:Gene sequences manifesting identical fingerprints with probes chosen by the new algorithm are more likely to be from the same taxonomic group than probes chosen by the previous algorithm.  In cases where they are from different taxonomic groups, underlying DNA sequences of identical fingerprints are more similar to each other in probe sets made with the new versus the previous algorithm.  Complete removal of large taxonomic groups from training data does not greatly decrease the ability of probe sets to distinguish those groups.CONCLUSIONS:Probe sets made from the new algorithm create fingerprints that more reliably cluster into biologically meaningful groups.  The method can readily distinguish microbial phylotypes that were excluded from the training sequences, suggesting novel microbes can also be detected.
+</blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right">
+[<a name="bonizzoni10:_approx_clust_finger_vector_missin_values">3</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
@@ -58,7 +77,7 @@ The problem of clustering fingerprint vectors with missing values is an interest
 
 <tr valign="top">
 <td align="right">
-[<a name="Beyond-evolutionary-trees">3</a>]
+[<a name="Beyond-evolutionary-trees">4</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Tao Jiang, Giulio
@@ -77,7 +96,7 @@ phylogenies to represent evolutionary histories.
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:Pure-Parsimony-Xor-Haplotyping">4</a>]
+[<a name="journal:Pure-Parsimony-Xor-Haplotyping">5</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Yuri Pirola, and Romeo
@@ -97,7 +116,7 @@ The haplotype resolution from xor-genotype data has been recently formulated as 
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:VariantsofConstrainedLongestCommonSubsequence">5</a>]
+[<a name="journal:VariantsofConstrainedLongestCommonSubsequence">6</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Yuri Pirola.
@@ -115,7 +134,7 @@ We consider a variant of the classical Longest Common Subsequence problem called
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:On-the-Approximation-of-Correlation-Clustering-and-Consensus-Clustering">6</a>]
+[<a name="journal:On-the-Approximation-of-Correlation-Clustering-and-Consensus-Clustering">7</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Tao Jiang.
@@ -134,7 +153,7 @@ The Correlation Clustering problem has been introduced recently as a model for c
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:Exemplar-Longest-Common-Subsequence">7</a>]
+[<a name="journal:Exemplar-Longest-Common-Subsequence">8</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, Guillaume Fertin,
@@ -154,7 +173,7 @@ In the paper we investigate the computational and approximation complexity of th
 
 <tr valign="top">
 <td align="right">
-[<a name="IWBRA2005full">8</a>]
+[<a name="IWBRA2005full">9</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Lorenzo Mariani.
@@ -184,7 +203,7 @@ data is addressed.
 
 <tr valign="top">
 <td align="right">
-[<a name="ReconcilingGeneAndSpeciesTrees">9</a>]
+[<a name="ReconcilingGeneAndSpeciesTrees">10</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Riccardo Dondi.
@@ -201,7 +220,7 @@ The general problem of reconciling the information from evolutionary trees repre
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:International-Journal-of-Theoretical-Physics">10</a>]
+[<a name="journal:International-Journal-of-Theoretical-Physics">11</a>]
 </td>
 <td>
 Gianpiero Cattaneo, Gianluca Della&nbsp;Vedova, Alberto&nbsp;Ottavio Leporati, and
@@ -229,7 +248,7 @@ in the framework.
 
 <tr valign="top">
 <td align="right">
-[<a name="INFORMS:MSAasFacilityLocationProblem">11</a>]
+[<a name="INFORMS:MSAasFacilityLocationProblem">12</a>]
 </td>
 <td>
 Winfried Just and Gianluca Della&nbsp;Vedova.
@@ -247,7 +266,7 @@ This paper deals with the computational problem of inferring complete informatio
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:2003:A-Library-of-Efficient-Bioinformatics-Algorithms">12</a>]
+[<a name="journal:2003:A-Library-of-Efficient-Bioinformatics-Algorithms">13</a>]
 </td>
 <td>
 Gianluca Della&nbsp;Vedova and Riccardo Dondi.
@@ -261,7 +280,7 @@ Gianluca Della&nbsp;Vedova and Riccardo Dondi.
 
 <tr valign="top">
 <td align="right">
-[<a name="journal:2003:The-Haplotyping-Problem:-An-Overview-of-Computational-Models-and-Solutions">13</a>]
+[<a name="journal:2003:The-Haplotyping-Problem:-An-Overview-of-Computational-Models-and-Solutions">14</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, Riccardo Dondi, and Jing Li.
@@ -300,7 +319,7 @@ discussed at the end of the paper.
 
 <tr valign="top">
 <td align="right">
-[<a name="LocalVertex">14</a>]
+[<a name="LocalVertex">15</a>]
 </td>
 <td>
 Gianluca Della&nbsp;Vedova and H.&nbsp;Todd Wareham.
@@ -316,7 +335,7 @@ Reconstructing evolutionary trees is an important problem in biology. A response
 
 <tr valign="top">
 <td align="right">
-[<a name="valinsky02:_analysis">15</a>]
+[<a name="valinsky02:_analysis">16</a>]
 </td>
 <td>
 Lea Valinsky, Gianluca Della&nbsp;Vedova, A.J. Scupham, S.&nbsp;Alvey, Andres Figueroa,
@@ -335,7 +354,7 @@ One of the first steps in characterizing an ecosystem is to describe the organis
 
 <tr valign="top">
 <td align="right">
-[<a name="valinsky02:_oligon_finger_genes_analy_fungal_commun_compos">16</a>]
+[<a name="valinsky02:_oligon_finger_genes_analy_fungal_commun_compos">17</a>]
 </td>
 <td>
 Lea Valinsky, Gianluca Della&nbsp;Vedova, Tao Jiang, and James Borneman.
@@ -353,7 +372,7 @@ Thorough assessments of fungal diversity are currently hindered by technological
 
 <tr valign="top">
 <td align="right">
-[<a name="experimentalLCS">17</a>]
+[<a name="experimentalLCS">18</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
@@ -371,7 +390,7 @@ In this paper, we give a new approximation algorithm for the longest common subs
 
 <tr valign="top">
 <td align="right">
-[<a name="ProbeSelectionForMicrobialCommunities">18</a>]
+[<a name="ProbeSelectionForMicrobialCommunities">19</a>]
 </td>
 <td>
 James Borneman, Marek Chrobak, Gianluca Della&nbsp;Vedova, Andres Figueroa, and Tao
@@ -390,7 +409,7 @@ We propose two efficient heuristics for minimizing the number of oligonucleotide
 
 <tr valign="top">
 <td align="right">
-[<a name="MSASPNPcomplete">19</a>]
+[<a name="MSASPNPcomplete">20</a>]
 </td>
 <td>
 Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
@@ -408,7 +427,7 @@ This paper analyzes the computational complexity of computing the optimal alignm
 
 <tr valign="top">
 <td align="right">
-[<a name="inapproximableMITjournal">20</a>]
+[<a name="inapproximableMITjournal">21</a>]
 </td>
 <td>
 Paola Bonizzoni, Gianluca Della&nbsp;Vedova, and Giancarlo Mauri.
@@ -426,7 +445,7 @@ The Maximum Isomorphic Agreement Subtree (MIT) problem is one of the simplest ve
 
 <tr valign="top">
 <td align="right">
-[<a name="ModularDecompositionHypergraphs">21</a>]
+[<a name="ModularDecompositionHypergraphs">22</a>]
 </td>
 <td>
 Paola Bonizzoni and Gianluca Della&nbsp;Vedova.
