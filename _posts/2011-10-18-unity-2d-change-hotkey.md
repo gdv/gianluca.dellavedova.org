@@ -9,7 +9,7 @@ tags:
 
 ## Change hotkey to activate Dash in Unity 2D
 
-I am a big fan of Unity 2D. Yes, I really like that, [esr's opinion]()
+I am a big fan of Unity 2D. Yes, I really like that, [esr's opinion](http://esr.ibiblio.org/?p=3822)
 notwithstanding. Compared to standard unity, it is much smoother and without
 annoying eye-candy animations. The only problem is the lack of a simple tool
 to configure Unity 2D.
