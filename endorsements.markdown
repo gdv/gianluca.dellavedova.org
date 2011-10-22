@@ -17,6 +17,9 @@ title: Endorsements
     not patentable by the Bern convention. Then why should you want to patent
     a program?
 *   [Email Charter](http://emailcharter.org/) We're drowning in email. We can reverse this spiral only by mutual agreement.
+*   [Science Code Manifesto](http://sciencecodemanifesto.org/) Software is a
+    cornerstone of science. Without software, twenty-first century science
+    would be impossible. Without better software, science cannot progress. But the culture and institutions of science have not yet adjusted to this reality. 
 
 ## Thanks to:
 
