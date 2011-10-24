@@ -15,7 +15,7 @@ Insegnamenti [non più attivi](non-attivi.html)
 
 ## Orario di ricevimento
 
-Il ricevimento studenti è ogni Lunedì, 10.00-11.00.
+Il ricevimento studenti è ogni Lunedì, 12.30-13.30.
 
 In alternativa è sempre possibile contattarmi per email.
 
