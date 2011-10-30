@@ -30,6 +30,8 @@ Nel corso verranno mostrate le basi di SAS.
 Tutti gli studenti sono invitati ad abbonarsi al feed rss degli
 [avvisi](http://avvisi-didattica-della-vedova.blogspot.com/feeds/posts/default).
 
+Il calendario delle attività
+
 Varie informazioni relative alle modalità di esame, disponibilità di temi
 d'esami già svolti, modalità di accesso ai laboratori, sono disponibili
 seguendo il [link](https://sites.google.com/a/dellavedova.org/esami/laboratorio-statistico-informatico).
