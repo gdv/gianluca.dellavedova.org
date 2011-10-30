@@ -1,8 +1,6 @@
 ---
-wordpress_id: 7
 layout: default
 title: Home
-wordpress_url: http://gianluca.dellavedova.org/?page_id=7
 ---
 
 I am an Associate Professor at the Department of Statistics, University of
@@ -36,3 +34,6 @@ modeling of data bases by means of graphs.
 
 I am in the Program Committee of [Cie 2013](http://www.illc.uva.nl/CiE/index.php?page=22_7).
 
+### Didattica
+
+[didattica.dellavedova.org](http://didattica.dellavedova.org)
