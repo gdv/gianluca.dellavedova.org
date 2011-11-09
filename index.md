@@ -34,6 +34,8 @@ modeling of data bases by means of graphs.
 
 I am in the Program Committee of [Cie 2013](http://www.illc.uva.nl/CiE/index.php?page=22_7).
 
+I am in the Organizing Commitee of [SAS Campus 2011]()
+
 ### Didattica
 
 [didattica.dellavedova.org](http://didattica.dellavedova.org)
