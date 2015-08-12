@@ -24,3 +24,5 @@ Or: What I like and support
 *   No to [online censorship](https://www.eff.org/pages/say-no-to-online-censorship)
 *   [Internet Defense League](http://internetdefenseleague.org)
 *   [ownCloud](https://owncloud.org/)
+*   [Hyde](http://drjekyllthemes.github.io/jekyll-minimal-theme)
+    Jekyll theme
