@@ -1,38 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="Gianluca Della Vedova - Algorithms, Computational Biology, Privacy.  And teaching too!" />
-<link rel="stylesheet" type="text/css" href="/css/daleri-single.css" title="Daleri Single" media="screen" />
-<link href="http://feeds.feedburner.com/gianluca-della-vedova" rel="alternate" title="Gianluca Della Vedova" type="application/atom+xml" />
-<title>{{ page.title }}</title>
-<meta name="author" content="Gianluca Della Vedova" />
-</head>
+<!DOCTYPE html>
+<html lang="en-us">
 
-<body>
-<div id="wrap">
-        <h1><a href="/index.html">Gianluca Della Vedova</a></h1>
+  {% include head.html %}
 
-        <p class="toptabs">
-        <strong class="hide">Main menu:</strong>
-          <a class="toptab" href="/research.html">Research</a><span class="hide"> | </span>
-            <a class="toptab" href="/papers.html">Papers</a><span class="hide"> | </span>
-            <a class="toptab" href="https://github.com/gdv">Software</a><span class="hide"> | </span>
-            <a class="toptab" href="/endorsements.html">Endorsements</a><span class="hide"> | </span>
-            <a class="toptab" href="/contact.html">Contact me</a><span class="hide"> | </span>
-            <a class="toptab" href="/posts.html">Blog</a><span class="hide"> | </span>
-        </p>
+      <body class="theme-base-0d">
 
-        <div id="maincontent">
-          <h2> {{title}}</h2>
-          {{ content }}
-        </div>
+    {% include sidebar.html %}
 
+    <div class="content container">
+      {{ content }}
+    </div>
 
-        <p class="footer">Copyright    &copy; 2001-2011 Gianluca Della Vedova<br />
-                        This work is licensed under a <a
-                            href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0
-                        Unported License</a><br />
-</div>
-</body>
+  </body>
 </html>
