@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 
@@ -40,11 +40,12 @@ My research group can be found at [AlgoLab](http://www.algolab.eu).
 
 ##Contact
 
-[Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).
-[Università degli Studi di Milano-Bicocca](http://www.unimib.it).
-Edificio U14, viale Sarca 336 [mappa](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)
-20126 – Milano (Italy)
-email: gianluca.dellavedova@unimib.it
+[Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
+[Università degli Studi di Milano-Bicocca](http://www.unimib.it).  
+Edificio U14, viale Sarca 336
+[mappa](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)  
+20126 – Milano (Italy)  
+email: gianluca.dellavedova@unimib.it  
 
 [GPG public key](http://keyserver.linux.it/pks/lookup?op=get&amp;fingerprint=on&amp;search=0xED2ABF3955C675F0),
 Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
