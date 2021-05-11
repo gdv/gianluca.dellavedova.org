@@ -28,12 +28,12 @@ plugins:
 
 
 # Top menu
-header_pages:
-  - index.md
-  - didattica.md
-  - software.md
-  - credits.md
-  - blog.md
+#header_pages:
+#  - index.md
+#  - didattica.md
+#  - software.md
+#  - credits.md
+#  - blog.md
 
 
 minima:
