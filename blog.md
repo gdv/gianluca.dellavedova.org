@@ -1,7 +1,4 @@
 ---
 layout: home
-title: Blog
+title: Amortized Analysis
 ---
-
-## Amortized Analysis
-
