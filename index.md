@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 
@@ -7,23 +7,19 @@ I am an Associate Professor at the Department of Computer Science,
 University of Milano-Bicocca. My research interests are in the field
 of algorithms and complexity theory. I am particularly interested in
 some problems in Computational Biology, such as the Multiple Sequence
-Alignment, Phylogeny Reconstruction, Probe Selection for DNA arrays
+Alignment, Phylogeny Reconstruction, 
 and Gene Structure Inference. I am a member of
-[AlgoLab](http://algolab.eu/), a research
-group on Experimental Algorithmics, with a special focus on algorithms
-for biology.
+[BIAS](http://algolab.eu/), a research
+group on Bionformatics and Experimental Algorithmics.
 
-I have worked on (and I am still loosely interested in) some problems
-related to the modular decomposition of graphs and hypergraphs, as
-well as the modeling of data bases by graphs.
 
-##Research
+## Research
 
 I have made available a preprint of my recent papers at
-[ArXiv](http://arxiv.org/a/dellavedova_g_1), and I plan to do so for
+[ArXiv](http://arxiv.org/a/dellavedova_g_1) or [BioRxiv](https://www.biorxiv.org/search/author1%3AGianluca%2BDella%2BVedova), and I plan to do so for
 the foreseeable future.
 
-Almost all my papers are indexed at the wonderful
+You can find almost all my papers at the wonderful
 [DBLP](http://dblp.org/pers/hc/v/Vedova:Gianluca_Della.html).
 
 A list of my publications is also at
@@ -36,9 +32,26 @@ and at
 My ORCID is
 [0000-0001-5584-3089](http://orcid.org/0000-0001-5584-3089)
 
-My research group can be found at [AlgoLab](http://www.algolab.eu).
+## Services
 
-##Contact
+
+I have served in the Program Committee of 
+[CiE 2013](http://cie2013.disco.unimib.it/), 
+[SPIRE 2017](http://pages.di.unipi.it/spire2017/), 
+[CPM 2019](http://cpm2019.di.unipi.it/),
+[CiE 2019](https://community.dur.ac.uk/cie.2019/),
+[CiE 2020](https://cie2020.wordpress.com/),
+[WABI 2020](http://algo2020.di.unipi.it/WABI2020/).
+
+I have served in the Review Committee of several
+[BOSC](https://www.open-bio.org/events/bosc/) (Bioinformatics Open Source
+Conference) editions.
+
+
+I have been in the Editorial Board of [Advances in Bioinformatics](http://www.hindawi.com/journals/abi/)
+
+
+## Contact
 
 [Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
 [Università degli Studi di Milano-Bicocca](http://www.unimib.it).  
@@ -47,27 +60,40 @@ Edificio U14, viale Sarca 336
 20126 – Milano (Italy)  
 email: gianluca.dellavedova@unimib.it  
 
-[GPG public key](http://keyserver.linux.it/pks/lookup?op=get&amp;fingerprint=on&amp;search=0xED2ABF3955C675F0),
+[GPG public key](http://keys.gnupg.net/pks/lookup?op=get&search=0xED2ABF3955C675F0),
 Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
 
-No [Word, Excel or Powerpoint attachments](http://www.fsf.org/philosophy/no-word-attachments.html), please.
+#  Didattica
 
-## Education
+## Corsi
 
-*     2000: Ph.D. Computer Science (Universit&agrave;&nbsp; di Milano), thesis
-  Multiple Sequence Alignment and Phylogenetic Reconstruction: Theory and
-  Methods in Biological Data Analysis [pdf](http://www.statistica.unimib.it/%7Edellavedova/papers/thesis.pdf)
-*     1995: M.Sc. Computer Science (Università di Milano), thesis Sequential and Parallel Algorithms for Graph Decomposition (in italian).
+L'[elenco dei corsi](https://www.unimib.it/gianluca-della-vedova) è gestito dall'Ateneo.
 
 
-## Appointments
+## Ricevimento studenti
 
-*    2005 - current: Associate Professor, Università degli Studi di Milano-Bicocca
-*    2001 - 2005: Assistant Professor, Università degli Studi di Milano-Bicocca
-
-## Services
+Il ricevimento studenti è su appuntamento (per email)
 
 
-I am in the Program Committee of [Cie 2013](http://cie2013.disco.unimib.it/).
+[Dipartimento di Informatica, Sistemistica
+e Comunicazione (DISCo)](http://www.disco.unimib.it).  
+[Università degli Studi di Milano-Bicocca](http://www.unimib.it)  
 
-I am in the Organizing Commitee of [SAS Campus 2011](http://www.sas.com/offices/europe/italy/eventi/112211/index.html)
+Edificio U14, viale Sarca 336
+[(mappa)](https://www.openstreetmap.org/note/236583)  
+20126 - Milano  
+Stanza: U14-2041 (secondo piano, corridoio a sinistra)
+
+
+email:
+[gianluca.dellavedova@unimib.it](mailto://gianluca.dellavedova@unimib.it)  
+Non gradisco ricevere allegati [Word, Excel o PowerPoint](http://www.fsf.org/philosophy/no-word-attachments.html).
+
+## Tesi e Stage
+
+Le proposte attualmente disponibili sono nella sezione dedicata del
+[Laboratorio di Bioinformatica e Algoritmica Sperimentale](http://algolab.eu/category/stage/).
+
+Sono sempre attivamente interessato a nuove proposte nell'ambito
+dell'Open Source, specialmente per scopi scientifici. In questo caso è
+meglio mandarmi una breve proposta per email.
