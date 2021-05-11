@@ -17,14 +17,8 @@ group on Bionformatics and Experimental Algorithmics.
 
 I have made available a preprint of my recent papers at
 [ArXiv](http://arxiv.org/a/dellavedova_g_1) or [BioRxiv](https://www.biorxiv.org/search/author1%3AGianluca%2BDella%2BVedova), and I plan to do so for
-the foreseeable future.
-
-A list of my publications is also at
-[Google Scholar](http://scholar.google.com/citations?user=0gaIFokAAAAJ)
-and at
-[BOA](https://boa.unimib.it/browse?type=author&amp;authority=rp06846)
-(Bicocca Open Archive): the institutional achive of my university.
-
+the foreseeable future. A [graphical summary](https://is.gd/mYcEj1) of
+my research interests.
 
 My ORCID is
 [0000-0001-5584-3089](http://orcid.org/0000-0001-5584-3089)
