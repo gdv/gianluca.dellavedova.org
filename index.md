@@ -63,7 +63,7 @@ email: gianluca.dellavedova@unimib.it
 [GPG public key](http://keys.gnupg.net/pks/lookup?op=get&search=0xED2ABF3955C675F0),
 Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
 
-#  Didattica
+###  Didattica
 
 ## Corsi
 
@@ -97,3 +97,54 @@ Le proposte attualmente disponibili sono nella sezione dedicata del
 Sono sempre attivamente interessato a nuove proposte nell'ambito
 dell'Open Source, specialmente per scopi scientifici. In questo caso è
 meglio mandarmi una breve proposta per email.
+
+
+###    Software
+
+## Highlights
+
+[cppp](https://github.com/AlgoLab/cppp): a program to compute the
+Constrained Persistent Phylogeny
+
+[PIntron](http://PIntron.algolab.eu/): A novel pipeline for
+gene-structure prediction based on spliced alignment of transcript
+sequences (ESTs and mRNAs) against a genomic sequence.
+
+[reduceLCS](https://github.com/gdv/Reduce-Expand-for-LCS): a fast
+program to compute the approximate Longest Commons Subsequence of a
+set of strings.
+
+[SASC](https://github.com/sciccolella/sasc/): a fast and precise tool for cancer
+progression inference from single-cell data.
+
+[ASGAL](https://asgal.algolab.eu/): a tool to discover new alternative splicing events
+
+
+## Miscellanea
+
+All my software is hosted at [GitHub](https://github.com/gdv).
+
+###    Credits
+
+*   [FSFE](http://fsfe.org/donate/): Free Software Foundation Europe.
+*   [PlayOgg](http://playogg.org): Don't use DRM files
+*   [Wikipedia](http://wikimediafoundation.org/wiki/Donate/it)
+*   [Not f'd - you won't find me on Facebook](http://www.fsf.org/fb)
+*   [Open Document Format](http://www.fsf.org/campaigns/opendocument)
+*   [Debian](http://debian.org)
+*   [Ubuntu](http://ubuntu.com)
+*   [Emacs](http://www.gnu.org/software/emacs/)
+*   No software patents. A program is a way to express algorithms, which are
+    not patentable by the Bern convention. Then why should you want to patent
+    a program?
+*   [Email Charter](http://emailcharter.org/) We're drowning in email. We can reverse this spiral only by mutual agreement.
+*   [Science Code Manifesto](http://sciencecodemanifesto.org/) Software is a
+    cornerstone of science. Without software, twenty-first century science
+    would be impossible. Without better software, science cannot progress. But the culture and institutions of science have not yet adjusted to this reality.
+*   I am an [Electronic Frontier Foundation](https://www.eff.org) Member.
+*   [Open Bioinformatics Foundation](http://www.open-bio.org/)
+*   No to [online censorship](https://www.eff.org/pages/say-no-to-online-censorship)
+*   [Internet Defense League](http://internetdefenseleague.org)
+*   [NextCloud](https://nextcloud.com/)
+*   [Privacy tools](https://www.privacytools.io/)
+
