@@ -28,7 +28,7 @@ My ORCID is
 [Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
 [Università degli Studi di Milano-Bicocca](http://www.unimib.it).  
 Edificio U14, viale Sarca 336
-[mappa](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)  
+[map](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)  
 Room: U14-2041 (second floor, turn to the left after taking the
 elevator)  
 20126 – Milano (Italy)  
@@ -39,24 +39,9 @@ Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
 
 ##  Didattica
 
-L'[elenco dei corsi](https://www.unimib.it/gianluca-della-vedova) è gestito dall'Ateneo.
+I miei [corsi](https://www.unimib.it/gianluca-della-vedova).
 
-
-## Ricevimento studenti
-
-Il ricevimento studenti è su appuntamento (per email)
-
-email:
-[gianluca.dellavedova@unimib.it](mailto://gianluca.dellavedova@unimib.it)  
-Non gradisco ricevere allegati [Word, Excel o PowerPoint](http://www.fsf.org/philosophy/no-word-attachments.html).
-
-Le proposte di tesi e stage attualmente disponibili sono nella sezione dedicata del
-[Laboratorio di Bioinformatica e Algoritmica Sperimentale](http://algolab.eu/category/stage/).
-
-Sono sempre attivamente interessato a nuove proposte nell'ambito
-dell'Open Source, specialmente per scopi scientifici. In questo caso è
-meglio mandarmi una breve proposta per email.
-
+Il ricevimento studenti è su appuntamento. Per [prenotare](https://calendar.x.ai/gianlucadellavedova/ricevimento).
 
 ##    Software
 
