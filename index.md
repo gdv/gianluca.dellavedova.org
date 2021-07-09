@@ -41,7 +41,7 @@ Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
 
 I miei [corsi](https://www.unimib.it/gianluca-della-vedova).
 
-Il ricevimento studenti è su appuntamento. Per [prenotare](https://calendar.x.ai/gianlucadellavedova/ricevimento).
+Il ricevimento studenti è su appuntamento. Per [prenotare](https://calendly.com/gianluca-dellavedova/meeting30).
 
 ##    Software
 
