@@ -1,9 +1,10 @@
 ---
-layout: post
+title: "Fixing Docker Permissions"
+date: 2018-09-08
+tags: []
+draft: false
 ---
 
-
-# Fixing permissions for Docker
 
 The post “[Handling Permissions with Docker Volumes](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/)” explains clearly the problem: when you run a docker container bound to a directory, all files are accessed/written with the UID of the docker user.
 

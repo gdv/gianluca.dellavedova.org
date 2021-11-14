@@ -1,9 +1,11 @@
 ---
-layout: post
+title: "Clarified Artistic License"
+date: 2011-01-03
+tags: []
+draft: false
 ---
 
 
-# Clarified Artistic License
 
 For some reasons that are totally unkown to me, some websites keep linking to my older website for a text of the Clarified Artistic License, so I decided to report it here.
 In 1998 I wrote the [implementation](https://github.com/gdv/Reduce-Expand-for-LCS) of the Reduce-Expand algorithm for solving the LCS (Longest Common Subsequence) problem. At the time my understanding of free software licenses was pretty naive, so I settled for the Clarified Artistic License, which was the ncftp license with a few very minor rewordings.

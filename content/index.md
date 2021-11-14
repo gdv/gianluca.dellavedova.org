@@ -1,13 +1,15 @@
 ---
-layout: page
-title: Home
+title: "Gianluca Della Vedova"
+description: ""
+draft: false
 ---
+
 
 I am an Associate Professor at the Department of Computer Science,
 University of Milano-Bicocca. My research interests are in the field
 of algorithms and complexity theory. I am particularly interested in
 some problems in Computational Biology, such as the Multiple Sequence
-Alignment, Phylogeny Reconstruction, 
+Alignment, Phylogeny Reconstruction,
 and Gene Structure Inference. I am a member of
 [BIAS](http://algolab.eu/), a research
 group on Bionformatics and Experimental Algorithmics.
@@ -25,23 +27,17 @@ My ORCID is
 
 ## Contact
 
-[Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
-[Università degli Studi di Milano-Bicocca](http://www.unimib.it).  
+[Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).
+[Università degli Studi di Milano-Bicocca](http://www.unimib.it).
 Edificio U14, viale Sarca 336
-[map](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)  
+[map](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)
 Room: U14-2041 (second floor, turn to the left after taking the
-elevator)  
-20126 – Milano (Italy)  
-email: gianluca.dellavedova@unimib.it  
+elevator)
+20126 – Milano (Italy)
+email: gianluca.dellavedova@unimib.it
 
 [GPG public key](http://keys.gnupg.net/pks/lookup?op=get&search=0xED2ABF3955C675F0),
 Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
-
-##  Didattica
-
-I miei [corsi](https://www.unimib.it/gianluca-della-vedova).
-
-Il ricevimento studenti è su appuntamento. Per [prenotare](https://calendly.com/gianluca-dellavedova/meeting30).
 
 ##    Software
 
@@ -73,16 +69,16 @@ All my software is hosted at [GitHub](https://github.com/gdv).
 *   [Ubuntu](http://ubuntu.com)
 *   [Emacs](http://www.gnu.org/software/emacs/)
 *   No software patents. A program is a way to express algorithms, which are
-    not patentable by the Bern convention. Then why should you want to patent
-    a program?
-*   [Email Charter](http://emailcharter.org/) We're drowning in email. We can reverse this spiral only by mutual agreement.
+not patentable by the Bern convention. Then why should you want to patent
+a program?
+*   [Email Charter](http://emailcharter.org/) We're drowning in email. We can reverse this spiral only by mutualagreement.
 *   [Science Code Manifesto](http://sciencecodemanifesto.org/) Software is a
-    cornerstone of science. Without software, twenty-first century science
-    would be impossible. Without better software, science cannot progress. But the culture and institutions of science have not yet adjusted to this reality.
+cornerstone of science. Without software, twenty-first century science
+would be impossible. Without better software, science cannot progress. But the culture and institutions of science have not yet adjusted to this reality.
 *   I am an [Electronic Frontier Foundation](https://www.eff.org) Member.
 *   [Open Bioinformatics Foundation](http://www.open-bio.org/)
 *   No to [online censorship](https://www.eff.org/pages/say-no-to-online-censorship)
 *   [Internet Defense League](http://internetdefenseleague.org)
 *   [NextCloud](https://nextcloud.com/)
 *   [Privacy tools](https://www.privacytools.io/)
-
+*   [Minimal theme for Hugo](https://github.com/calintat/minimal)

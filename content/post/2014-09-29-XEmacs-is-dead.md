@@ -1,8 +1,9 @@
 ---
-layout: post
+title: "XEmacs Is Dead and it smells badly"
+date: 2014-09-29
+tags: []
+draft: false
 ---
-
-# XEmacs is dead and it smells badly
 
 I used to love XEmacs, but it has been [declared
 dead](https://steve-yegge.blogspot.com/2008/04/xemacs-is-dead-long-live-xemacs.html) years ago.
