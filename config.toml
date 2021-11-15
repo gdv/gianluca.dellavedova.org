@@ -1,5 +1,4 @@
-#baseURL = "https://gianluca.dellavedova.org/"
-baseURL = "https://gdvtest.pages.dev/"
+baseURL = "https://gianluca.dellavedova.org/"
 languageCode = "en-us"
 title = "Gianluca Della Vedova"
 theme = "minimal"
@@ -7,7 +6,6 @@ googleAnalytics = ""
 
 [params]
     author = "Gianluca Della Vedova"
-    description = "Personal blog theme powered by Hugo"
     githubUsername = "gdv"
     accent = "darkcyan"
     showBorder = true
