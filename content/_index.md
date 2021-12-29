@@ -27,17 +27,20 @@ My ORCID is
 
 ## Contact
 
-[Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).
-[Università degli Studi di Milano-Bicocca](http://www.unimib.it).
-Edificio U14, viale Sarca 336
-[map](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)
+[Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
+[Università degli Studi di Milano-Bicocca](http://www.unimib.it).  
+Edificio U14, viale Sarca 336 
+[map](http://osm.org/go/0CjF~Gbr~?layers=N&amp;m=)  
 Room: U14-2041 (second floor, turn to the left after taking the
-elevator)
-20126 – Milano (Italy)
-email: gianluca.dellavedova@unimib.it
+elevator)  
+20126 – Milano (Italy)  
 
-[GPG public key](http://keys.gnupg.net/pks/lookup?op=get&search=0xED2ABF3955C675F0),
-Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
+gianluca.dellavedova@unimib.it (university email)   
+gianluca@dellavedova.org (personal email)  
+[github/gdv](https://github.com/gdv/)  
+[Orcid](https://orcid.org/0000-0001-5584-3089)  
+[Mastodon @dellavg](https://scholar.social/@dellavg)  
+[Stack Overflow](https://stackoverflow.com/users/34613/gianluca-della-vedova)  
 
 ##    Software
 
