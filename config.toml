@@ -35,27 +35,12 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 
-[[menu.icon]]
-url = "mailto:gianluca@dellavedova.org"
-name = "fas fa-envelope"
-weight = 1
+# [[menu.icon]]
+# url = "mailto:gianluca@dellavedova.org"
+# name = "fas fa-envelope"
+# weight = 1
 
-[[menu.icon]]
-url = "https://github.com/gdv/"
-name = "fab fa-github"
-weight = 2
-
-[[menu.icon]]
-url = "https://orcid.org/0000-0001-5584-3089"
-name = "fab fa-orcid"
-weight = 3
-
-[[menu.icon]]
-url = "https://scholar.social/@dellavg"
-name = "fab fa-mastodon"
-weight = 4
-
-[[menu.icon]]
-url = "https://stackoverflow.com/users/34613/gianluca-della-vedova"
-name = "fab fa-stack-overflow"
-weight = 5
+# [[menu.icon]]
+# url = "https://github.com/gdv/"
+# name = "fab fa-github"
+# weight = 2

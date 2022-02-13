@@ -12,7 +12,11 @@ Edificio U14, viale Sarca 336
 Room: U14-2041 (second floor, turn to the left after taking the
 elevator)  
 20126 – Milano (Italy)  
-[gianluca.dellavedova@unimib.it](mailto:gianluca.dellavedova@unimib.it)   
+[gianluca.dellavedova@unimib.it](mailto:gianluca.dellavedova@unimib.it)  [gianluca@dellavedova.org](mailto:gianluca@dellavedova.org)  
+[github/gdv](https://github.com/gdv/)  
+[orcid](https://orcid.org/0000-0001-5584-3089)  
+[mastodon/@dellavg](https://scholar.social/@dellavg)  
+[stack overflow](https://stackoverflow.com/users/34613/gianluca-della-vedova)  
 
 ## Research
 
