@@ -35,7 +35,7 @@ I have made available a preprint of my recent papers at
 the foreseeable future. A [graphical summary](https://is.gd/mYcEj1) of
 my research interests.
 
-All my software is hosted at [GitHub](https://github.com/gdv)
+All my software is hosted at [GitHub](https://github.com/gdv).
 
 ##    Credits
 
