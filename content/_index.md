@@ -14,7 +14,7 @@ elevator)
 [gianluca.dellavedova@unimib.it](mailto:gianluca.dellavedova@unimib.it)  [gianluca@dellavedova.org](mailto:gianluca@dellavedova.org)  
 [github/gdv](https://github.com/gdv/)  
 [orcid/0000-0001-5584-3089](https://orcid.org/0000-0001-5584-3089)  
-[mastodon/@dellavg](https://scholar.social/@dellavg)  
+[mastodon/@dellavg](https://mastodon.uno/@dellavg)  
 [stack overflow](https://stackoverflow.com/users/34613/gianluca-della-vedova)  
 [Academic CV](https://github.com/gdv/resume/raw/main/resume.pdf)
 
