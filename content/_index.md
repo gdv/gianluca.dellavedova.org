@@ -60,3 +60,4 @@ would be impossible. Without better software, science cannot progress. But the c
 *   [NextCloud](https://nextcloud.com/)
 *   [Privacy tools](https://www.privacytools.io/)
 *   [Extremely Minimal theme for Hugo](https://github.com/yihui/hugo-xmin)
+*   [Contra Chrome](https://contrachrome.com/)
