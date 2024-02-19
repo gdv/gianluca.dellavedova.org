@@ -4,7 +4,7 @@ title: "Gianluca Della Vedova"
 description: ""
 ---
 
-# Home
+## Home
 
 Associate Professor  
 [Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
