@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-##   Gianluca Della Vedova"
+##   Gianluca Della Vedova
 
 Associate Professor  
 [Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
