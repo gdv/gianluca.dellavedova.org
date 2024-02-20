@@ -10,7 +10,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
 
 # Exclude from processing.
@@ -37,7 +36,6 @@ header_pages:
   - didattica.md
   - blog.md
 
-rss: atom
 feed:
     path: atom.xml
 
