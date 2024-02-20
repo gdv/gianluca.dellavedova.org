@@ -20,9 +20,7 @@ gem "minima"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
-  gem 'jekyll-redirect-from'
+  gem "jektex"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
