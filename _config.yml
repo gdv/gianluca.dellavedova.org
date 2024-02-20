@@ -37,7 +37,7 @@ header_pages:
   - didattica.md
   - blog.md
 
-rss: rss
+rss: atom
 feed:
     path: atom.xml
 
