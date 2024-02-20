@@ -1,6 +1,5 @@
 # Site settings
 title: Gianluca Della Vedova
-email: gianluca@dellavedova.org
 description: >- # this means to ignore newlines until "baseurl:"
   My home page.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,6 +10,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -26,6 +27,9 @@ plugins:
 #
 #   #############################à
 
+author:
+  name: Gianluca Della Vedova
+  email: gianluca@dellavedova.org
 
 # Top menu
 header_pages:
@@ -33,6 +37,9 @@ header_pages:
   - didattica.md
   - blog.md
 
+rss: rss
+feed:
+    path: atom.xml
 
 minima:
   skin: auto
