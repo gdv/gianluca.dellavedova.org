@@ -36,6 +36,7 @@ header_pages:
 
 minima:
   skin: auto
+  date_format: "%d-%m-%Y"
   # generate social links in footer
   #  social_links:
   #    github:  gdv
