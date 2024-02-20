@@ -30,16 +30,15 @@ plugins:
 # Top menu
 header_pages:
   - index.md
-  - blog.md
   - didattica.md
-#  - software.md
-#  - credits.md
+  - blog.md
 
 
 minima:
+  skin: auto
   # generate social links in footer
-  social_links:
-    github:  gdv
+  #  social_links:
+  #    github:  gdv
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

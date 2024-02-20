@@ -61,5 +61,5 @@ would be impossible. Without better software, science cannot progress. But the c
 *   [Internet Defense League](http://internetdefenseleague.org)
 *   [NextCloud](https://nextcloud.com/)
 *   [Privacy tools](https://www.privacytools.io/)
-*   [Extremely Minimal theme for Hugo](https://github.com/yihui/hugo-xmin)
+*   [Minima theme for Jekyll](https://jekyll.github.io/minima/)
 *   [Contra Chrome](https://contrachrome.com/)
