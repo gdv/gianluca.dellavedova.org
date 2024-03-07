@@ -63,3 +63,4 @@ would be impossible. Without better software, science cannot progress. But the c
 *   [Privacy tools](https://www.privacytools.io/)
 *   [Minima theme for Jekyll](https://jekyll.github.io/minima/)
 *   [Contra Chrome](https://contrachrome.com/)
+*   [Public Money Public Code](https://publiccode.eu/)
