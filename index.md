@@ -5,7 +5,7 @@ layout: page
 
 ##   Gianluca Della Vedova
 
-Associate Professor  
+Professor  
 [Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
 [Università degli Studi di Milano-Bicocca](http://www.unimib.it).  
 Edificio U14, viale Sarca 336 
@@ -17,7 +17,6 @@ elevator)
 [github/gdv](https://github.com/gdv/)  
 [orcid/0000-0001-5584-3089](https://orcid.org/0000-0001-5584-3089)  
 <a rel="me" href="https://mastodon.uno/@dellavg">mastodon/@dellavg</a>  
-[stack overflow](https://stackoverflow.com/users/34613/gianluca-della-vedova)  
 [Academic CV](https://github.com/gdv/resume/raw/main/resume.pdf)
 
 ## Research
