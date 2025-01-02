@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Gianluca Della Vedova
+N;CHARSET=UTF-8:Della Vedova;Gianluca;;;
+EMAIL;CHARSET=UTF-8;type=WORK:gianluca.dellavedova@unimib.it
+TEL;TYPE=CELL:+393472575407
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Edificio U14, viale Sarca 336;Milano;;;Italy
+ORG;CHARSET=UTF-8:Univ. Milano-Bicocca
+URL;type=WORK;CHARSET=UTF-8:https://www.unimib.it/gianluca-della-vedova
+NOTE:qrencode -s 6 -l H -o "qr.png" < ~/Devel/WWW/gianluca.dellavedova.org/contact.vcf && convert -background white -fill black -font Arial -size 678x -gravity center label:"Gianluca Della Vedova" name.png && convert -append qr.png name.png contact.png
+END:VCARD
