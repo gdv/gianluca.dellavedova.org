@@ -6,7 +6,6 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- if titles_size > 0 -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -27,6 +26,5 @@
           <a class="page-link" href="https://www.unimib.it/gianluca-della-vedova">Didattica</a>
         </div>
       </nav>
-    {%- endif -%}
   </div>
 </header>
