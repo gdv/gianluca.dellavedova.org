@@ -17,7 +17,7 @@ elevator)
 <a rel="me" href="https://mastodon.uno/@dellavg">mastodon/@dellavg</a>  
 [Academic CV](https://github.com/gdv/resume/raw/main/resume.pdf)
 
-## Research
+#### Research
 
 My research interests are in the field
 of algorithms and complexity theory. I am particularly interested in
@@ -35,7 +35,7 @@ my research interests.
 
 All my software is hosted at [GitHub](https://github.com/gdv).
 
-##    Credits
+#### Credits
 
 *   [FSFE](http://fsfe.org/donate/): Free Software Foundation Europe.
 *   [PlayOgg](http://playogg.org): Don't use DRM files
