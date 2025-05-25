@@ -35,7 +35,7 @@ my research interests.
 
 All my software is hosted at [GitHub](https://github.com/gdv).
 
-#####   Credits
+####   Credits
 
 *   [FSFE](http://fsfe.org/donate/): Free Software Foundation Europe.
 *   [PlayOgg](http://playogg.org): Don't use DRM files
