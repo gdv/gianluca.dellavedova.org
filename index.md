@@ -3,8 +3,6 @@ layout: page
 ---
 
 
-##   Gianluca Della Vedova
-
 Professor  
 [Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
 [Università degli Studi di Milano-Bicocca](http://www.unimib.it).  
