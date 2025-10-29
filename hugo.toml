@@ -1,0 +1,72 @@
+# Basic config
+baseURL = 'https://gianluca.dellavedova.org'
+theme = "hugo-simple"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = 'Gianluca Della Vedova'
+mainSections = ["blog"]
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# https://github.com/gohugoio/hugo/issues/12152
+capitalizeListTitles = false
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+# ignoreErrors = ["error-disable-taxonomy"]
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+blog = "/:slugorcontentbasename/"
+tags = "/blog/:slug"
+
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3
+[markup.highlight]
+lineNos = true
+lineNumbersInTable = false
+noClasses = true
+style = "catppuccin-mocha"
+
+[params]
+title = "Gianluca Della Vedova"
+description = ""
+favicon = "favicon-32x32.png"
+dateFormat = "2006-01-02"
+hideMadeWithLine = true
+hideRSSLink = false
+
+[params.author]
+name = "Gianluca Della Vedova"
+email = "gianluca@dellavedova.org"
+fediverse = "@dellavg@mastodon.uno"
+
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+[[menu.main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 20
+[[menu.main]]
+name = "Didattica"
+url = "https://www.unimib.it/gianluca-della-vedova"
+weight = 30
+
+[services.rss]
+limit = 42
+
+[pagination]
+pagerSize = 16
+
+[outputs]
+# Generate RSS for home only.
+section = ["html"]
+taxonomy = ["html"]
+term = ["html"]
