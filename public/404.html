@@ -1,38 +1,166 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>404 Page not found | Gianluca Della Vedova</title>
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/fonts.css" />
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="/favicon-32x32.png" />
+
+<title>404</title>
+<meta
+  name="title"
+  content="404 Page not found"
+/>
+<meta
+  name="description"
+  content=""
+/>
+<meta
+  name="keywords"
+  content=""
+/>
+
+  <meta name="author" content="Gianluca Della Vedova" />
+
+
+
+
+<meta property="og:url" content="https://gianluca.dellavedova.org/404.html">
+  <meta property="og:site_name" content="Gianluca Della Vedova">
+  <meta property="og:title" content="404 Page not found">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="website">
+
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="404 Page not found">
+
+
+
+
+
+  <meta itemprop="name" content="404 Page not found">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
     
-  </head>
+    
+    
+    <link href="/bundle.min.css" rel="stylesheet" />
+
+    
+
+    
+      <meta name="fediverse:creator" content="@dellavg@mastodon.uno" />
+    
+
+
+    <script>
+(function() {
+  var theme;
+  try { theme = localStorage.getItem('theme'); } catch(e) {}
+  if (!theme) {
+    theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+  document.documentElement.setAttribute('data-theme', theme);
+  window.__theme = theme;
+})();
+</script>
+</head>
 
   <body>
-    <nav>
-    <ul class="menu">
-      
-      <li><a href="/">Home</a></li>
-      
-      <li><a href="/post/">Blog</a></li>
-      
-      <li><a href="/index.xml">Subscribe</a></li>
-      
-    </ul>
-    <hr/>
-    </nav>
+    <header>
+      <nav>
+  <a
+    href="/"
+    
+    >Home</a
+  >
+
+  <a
+    href="/blog/"
+    
+    >Blog</a
+  >
+
+  <a
+    href="https://www.unimib.it/gianluca-della-vedova"
+    
+    >Didattica</a
+  >
 
 
-404 NOT FOUND
+  <a href="/index.xml">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512">
+      
+      <path
+        d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"
+      />
+    </svg>
+    RSS
+  </a>
 
-  <footer>
+</nav>
+
+
+    </header>
+    <main>
+      
+  <h1>404</h1>
+  <h2>ʕノ•ᴥ•ʔノ ︵ ┻━┻</h2>
+
+    </main>
+    <footer>
+      
+
+      
+
+
+    </footer>
+
+    <script>
+(function() {
+  var nav = document.querySelector('header nav');
+  if (!nav) return;
+
+  var btn = document.createElement('button');
+  btn.className = 'theme-toggle';
+  btn.setAttribute('aria-label', 'Toggle dark/light theme');
   
+  var svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('class', 'icon');
+  svg.setAttribute('viewBox', '0 0 24 24');
   
-  <hr/>
-  © <a href="https://gianluca.dellavedova.org">Gianluca Della Vedova</a> 2017 &ndash; 2024 | <a href="https://github.com/gdv">Github</a>
+  var sun = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  sun.setAttribute('class', 'icon-sun');
+  sun.setAttribute('d', 'M12 3v1m0 16v1m8.66-13.66l-.71.71M4.05 19.95l-.71.71M21 12h-1M4 12H3m16.66 7.66l-.71-.71M4.05 4.05l-.71-.71M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0z');
+  sun.setAttribute('fill', 'none');
+  sun.setAttribute('stroke', 'currentColor');
+  sun.setAttribute('stroke-width', '2');
+  sun.setAttribute('stroke-linecap', 'round');
   
-  </footer>
-  </body>
+  var moon = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  moon.setAttribute('class', 'icon-moon');
+  moon.setAttribute('d', 'M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z');
+  moon.setAttribute('fill', 'currentColor');
+  moon.setAttribute('stroke', 'currentColor');
+  moon.setAttribute('stroke-width', '1');
+  moon.setAttribute('stroke-linejoin', 'round');
+  
+  svg.appendChild(sun);
+  svg.appendChild(moon);
+  btn.appendChild(svg);
+  nav.appendChild(btn);
+
+  btn.addEventListener('click', function() {
+    var current = document.documentElement.getAttribute('data-theme');
+    var next = current === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch(e) {}
+    window.__theme = next;
+  });
+})();
+</script>
+</body>
 </html>
-
