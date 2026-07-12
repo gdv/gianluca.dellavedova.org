@@ -89,3 +89,16 @@ ul.blog-posts > li span {
 
 :root[data-theme="light"] .icon-moon { display: none; }
 :root[data-theme="dark"]  .icon-sun  { display: none; }
+
+.error-page {
+   text-align: center;
+   margin: 10px auto;
+   max-width: 600px;
+ }
+
+ .error-page h1 {
+   font-size: 4em;
+   line-height: 1;
+   letter-spacing: -1px;
+   margin: 30px 0;
+ }
