@@ -17,19 +17,7 @@ ul.blog-posts > li span {
   color: var(--text-light);
 }
 
-.icon {
-  vertical-align: sub;
-  padding-right: 0.25rem;
-  display: inline-block;
-  width: 1em;
-  height: 1.3em;
-  margin-right: 0.2rem;
-  stroke-width: 0;
-  stroke: currentColor;
-  fill: currentColor;
-}
-
-/* ── Theme toggle ────────────────────────────────────────────── */
+/* ── Theme colors ────────────────────────────────────────────── */
 
 :root[data-theme="light"] {
   --bg: #fff;
@@ -65,30 +53,6 @@ ul.blog-posts > li span {
   opacity: 0.8;
 }
 
-.theme-toggle {
-  background: none;
-  border: none;
-  color: var(--text);
-  cursor: pointer;
-  font-size: inherit;
-  font-family: inherit;
-  padding: 0.25em 0.5em;
-  margin: 0;
-  display: inline-flex;
-  align-items: center;
-  line-height: 1;
-}
-
-.theme-toggle:hover {
-  color: var(--accent);
-}
-
-.theme-toggle .icon {
-  margin-right: 0.15rem;
-}
-
-:root[data-theme="light"] .icon-moon { display: none; }
-:root[data-theme="dark"]  .icon-sun  { display: none; }
 
 .error-page {
    text-align: center;

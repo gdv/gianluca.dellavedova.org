@@ -18,7 +18,6 @@
       theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
     }
     document.documentElement.setAttribute('data-theme', theme);
-    window.__theme = theme;
   })();
   </script>
 </head>
@@ -36,42 +35,6 @@
   <footer>
     <p><small>© {{ now() | date(format="%Y") }} {{ config.author }}</small></p>
   </footer>
-  <script>
-  (function() {
-    var nav = document.querySelector('header nav');
-    if (!nav) return;
-    var btn = document.createElement('button');
-    btn.className = 'theme-toggle';
-    btn.setAttribute('aria-label', 'Toggle dark/light theme');
-    var svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-    svg.setAttribute('class', 'icon');
-    svg.setAttribute('viewBox', '0 0 24 24');
-    var sun = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-    sun.setAttribute('class', 'icon-sun');
-    sun.setAttribute('d', 'M12 3v1m0 16v1m8.66-13.66l-.71.71M4.05 19.95l-.71.71M21 12h-1M4 12H3m16.66 7.66l-.71-.71M4.05 4.05l-.71-.71M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0z');
-    sun.setAttribute('fill', 'none');
-    sun.setAttribute('stroke', 'currentColor');
-    sun.setAttribute('stroke-width', '2');
-    sun.setAttribute('stroke-linecap', 'round');
-    var moon = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-    moon.setAttribute('class', 'icon-moon');
-    moon.setAttribute('d', 'M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z');
-    moon.setAttribute('fill', 'currentColor');
-    moon.setAttribute('stroke', 'currentColor');
-    moon.setAttribute('stroke-width', '1');
-    moon.setAttribute('stroke-linejoin', 'round');
-    svg.appendChild(sun);
-    svg.appendChild(moon);
-    btn.appendChild(svg);
-    nav.appendChild(btn);
-    btn.addEventListener('click', function() {
-      var current = document.documentElement.getAttribute('data-theme');
-      var next = current === 'dark' ? 'light' : 'dark';
-      document.documentElement.setAttribute('data-theme', next);
-      try { localStorage.setItem('theme', next); } catch(e) {}
-      window.__theme = next;
-    });
-  })();
-  </script>
+
 </body>
 </html>
