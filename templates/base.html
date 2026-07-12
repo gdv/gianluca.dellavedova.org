@@ -7,7 +7,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="me" href="https://mastodon.uno/@dellavg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simpledotcss@2.3.1/simple.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simpledotcss/simple.min.css">
   <link rel="stylesheet" href="/style.css">
   {% block head %}{% endblock %}
   <script>
@@ -23,6 +23,7 @@
 </head>
 <body>
   <header>
+    <h1>{{ config.title }}</h1>
     <nav>
       <a href="/" {% if current_path and current_path == "/" %}class="current"{% endif %}>Home</a>
       <a href="/blog" {% if current_path and current_path is starting_with("/blog") %}class="current"{% endif %}>Blog</a>
