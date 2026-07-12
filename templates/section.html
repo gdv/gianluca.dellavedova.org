@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}{{ section.title }} | {{ config.title }}{% endblock %}
+{% block content %}
+{{ section.content | safe }}
+<ul class="blog-posts">
+{% for page in paginator.pages %}
+  <li>
+    <span>{{ page.date | date(format="%Y-%m-%d") }}</span>
+    <a href="{{ page.path }}">{{ page.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+{% if paginator.previous or paginator.next %}
+<nav class="pagination">
+  {% if paginator.previous %}
+    <a href="{{ paginator.previous }}">← Newer</a>
+  {% endif %}
+  {% if paginator.next %}
+    <a href="{{ paginator.next }}">Older →</a>
+  {% endif %}
+</nav>
+{% endif %}
+{% endblock %}

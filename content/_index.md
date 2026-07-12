@@ -1,6 +1,4 @@
 +++
-date = '2025-10-29T10:29:14Z'
-draft = false
 title = 'Gianluca Della Vedova'
 +++
 

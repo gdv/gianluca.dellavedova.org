@@ -2,6 +2,7 @@
 date = '2018-09-08T10:29:22Z'
 draft = false
 title = 'Fixing permissions for Docker'
+slug = 'fixing-docker-permissions'
 +++
 
 The post “[Handling Permissions with Docker Volumes](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/)” explains clearly the problem: when you run a docker container bound to a directory, all files are accessed/written with the UID of the docker user.

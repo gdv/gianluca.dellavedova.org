@@ -2,6 +2,7 @@
 date = '2014-09-29T10:29:22Z'
 draft = false
 title = 'XEmacs is dead and it smells badly'
+slug = 'xemacs-is-dead'
 +++
 
 

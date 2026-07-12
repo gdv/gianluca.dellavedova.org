@@ -1,0 +1,13 @@
+base_url = "https://gianluca.dellavedova.org"
+title = "Gianluca Della Vedova"
+description = ""
+default_language = "en"
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+feed_limit = 42
+
+author = "Gianluca Della Vedova"
+
+[extra]
+author_email = "gianluca@dellavedova.org"
+fediverse = "@dellavg@mastodon.uno"

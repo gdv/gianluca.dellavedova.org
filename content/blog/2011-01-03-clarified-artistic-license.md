@@ -2,6 +2,7 @@
 date = '2011-01-03T10:29:22Z'
 draft = false
 title = 'Clarified Artistic License'
+slug = 'clarified-artistic-license'
 +++
 
 
